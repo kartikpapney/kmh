@@ -3,7 +3,11 @@ document.write(
     <div style="background-color: #21201E" class='d-flex justify-content-around align-items-center text-center'>
         
         <div class="justify-content-center align-items-center">
-        <img src="./asset/kmh.png" alt="" width="50" height="50">
+        <div class="m-2 d-flex justify-content-around">
+            <img src="./asset/kmh.png" alt="" width="50" height="50">
+            <img src="./asset/tu.png" alt="" width="50" height="50"> 
+        </div>
+
             <h1 style="font-family: 'Calistoga', cursive; color: white;">Kanchenjungha Men's Hostel</h1>
             <h6 style="font-family: 'Aerial', cursive; color: white;">home... away from home</h6>
         </div>
