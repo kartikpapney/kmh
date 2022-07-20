@@ -4,13 +4,13 @@ const URL = "https://script.google.com/macros/s/AKfycbx49EiKQQKoyKEJruUWV0_d8SS5
 function fn(cres) {
 
     var element = document.getElementById("spinnerDiv");
-    element.style.display="none";
+    element.parentNode.removeChild(element);
     var res = document.getElementsByClassName("m-section");
     res[0].insertAdjacentHTML ('beforeend',
         `
-        <div data-bs-spy="scroll" data-bs-target="#wings-list" data-bs-offset="0" class="scrollspy-example container" tabindex="0">
-            ${cres}
-        </div>
+            <div data-bs-spy="scroll" data-bs-target="#wings-list" data-bs-offset="0" class="scrollspy-example container" tabindex="0">
+                ${cres}
+            </div>
         
         `
 

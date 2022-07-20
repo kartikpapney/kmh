@@ -3,7 +3,7 @@ const URL = "https://script.googleusercontent.com/a/macros/tezu.ac.in/echo?user_
 
 function fn(cres) {
     var element = document.getElementById("spinnerDiv");
-    element.style.display="none";
+    element.parentNode.removeChild(element);
     var res = document.getElementsByClassName("m-section");
     res[0].insertAdjacentHTML ('beforeend',
         `
