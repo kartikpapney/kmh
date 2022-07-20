@@ -36,7 +36,7 @@ document.write(
                 <a class="nav-link" href="facilities.html">Facilities</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="boarders.html">Existing Boarders</a>
+                <a class="nav-link" href="boarders.html">Boarders</a>
             </li>
             <li class="nav-item">
             <a class="nav-link" href="defaulters.html">Defaulters</a>
@@ -46,7 +46,7 @@ document.write(
             </li>
             </ul>            
             <ul class="navbar-nav ml-auto">
-                <a class="nav-link" href="./old">Developer</a>
+                <a class="nav-link" href="https://github.com/kartikpapney" target="_blank">Developer</a>
             </ul>
         </div>
     </nav>
