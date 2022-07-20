@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&family=Calistoga&display=swap');
+h4 {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+body {
+  background-color: #E6E6E6;
+}
+.carousel-item {
+  height: 600px;
+  overflow: hidden;
+  width: 100%;
+}
+.carousel-item img {
+  height: 600px;
+  object-fit: contain;
+  width: 100%;
+}
+
+.image{
+    position:relative;
+    overflow:hidden;
+    padding-bottom:100%;
+}
+.image img{
+    position:absolute;
+    top: -9999px;
+    bottom: -9999px;
+    left: -9999px;
+    right: -9999px;
+    margin: auto;
+}
+
+.scrollspy-example-collapsible {
+  position: relative;
+  height: 200px;
+  overflow: auto;
+}
+
+.card-title {
+  font-family: cursive;
+}
+.card-header {
+  font-family: cursive;
+}

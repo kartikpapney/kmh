@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Dr. Rupak Mukhopadhyay",
+        "designation": "Senior Warden",
+        "image": "0.jpeg",
+        "contact": "Department of Molecular Biology & Biotechnology, Tezpur University"
+    },
+    {
+        "name": "Dr. Md. Rahat Mahboob",
+        "designation": "Warden",
+        "image": "1.jpeg",
+        "contact": "Department of Electrical Engineering, Tezpur University"
+    },
+    {
+        "name": "Abhishek Debnath",
+        "designation": "Prefect",
+        "image": "2.jpeg",
+        "contact": "Room No 137, Nilgiri Wing, KMH"
+    },
+    {
+        "name": "Abhishek Raj",
+        "designation": "Assistant Prefect (General Administration)",
+        "image": "3.jpeg",
+        "contact": "Room No 211, Purbachal Wing, KMH"
+    },
+    {
+        "name": "Abhijit Bhattacharjee",
+        "designation": "Assistant Prefect (Cleanliness & Sanitization)",
+        "image": "4.jpeg",
+        "contact": "Room No 119, Kangbachen Wing, KMH"
+    },
+    {
+        "name": "Abhijit Deka",
+        "designation": "Assistant Prefect (Cultural, Literary, Sports, Common Room)",
+        "image": "5.jpeg",
+        "contact": "Room No 388, Shivalik Wing, KMH"
+    },
+    {
+        "name": "Ankit Kumar",
+        "designation": "Assistant Prefect (Mess Convenor)",
+        "image": "6.jpeg",
+        "contact": "Room No 327, Aravali Wing, KMH"
+    },
+    {
+        "name": "Abhishek Kumar",
+        "designation": "Assistant Prefect (Mess Supplies & Food Quality)",
+        "image": "7.jpeg",
+        "contact": "Room No 257, Jatinga Wing, KMH"
+    },
+    {
+        "name": "Sanket Sharma",
+        "designation": "Assistant Prefect (Auditor, Finance)",
+        "image": "8.jpeg",
+        "contact": "Room No 402, Deomali Wing, KMH"
+    }
+]

@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- <!DOCTYPE alumni SYSTEM "alumni.dtd"> -->
+<Alumni>
+	<y2011>
+		<Broader >	<name>	A K Islam	</name>	<programme>	MTECH IT	</programme>	</Broader >
+		<Broader >	<name>	A. Sateesh Reddy	</name>	<programme>	MTECH ELDT	</programme>	</Broader >
+		<Broader >	<name>	Adil Akhtar	</name>	<programme>	MATHS	</programme>	</Broader >
+		<Broader >	<name>	Alok Borah	</name>	<programme>	MBA	</programme>	</Broader >
+		<Broader >	<name>	Anal Kishor Bordoloi	</name>	<programme>	MBA	</programme>	</Broader >
+		<Broader >	<name>	Anuj Gogoi	</name>	<programme>	MCJ	</programme>	</Broader >
+		<Broader >	<name>	Anupam Das	</name>	<programme>	SOCIOLOGY	</programme>	</Broader >
+		<Broader >	<name>	Anupam Mahanta	</name>	<programme>	MBA	</programme>	</Broader >
+		<Broader >	<name>	Arnav Mazumdar	</name>	<programme>	MBA	</programme>	</Broader >
+		<Broader >	<name>	Bharat Chutia	</name>	<programme>	MATHS	</programme>	</Broader >
+		<Broader >	<name>	Bhaskar Goswami	</name>	<programme>	CSE 	</programme>	</Broader >
+		<Broader >	<name>	Bhaskar Jyoti Dutta	</name>	<programme>	ENERGY 	</programme>	</Broader >
+		<Broader >	<name>	Bhaskar Jyoti Gogoi	</name>	<programme>	EFL	</programme>	</Broader >
+		<Broader >	<name>	Bhaskar Saikia	</name>	<programme>	CHEM.SC.	</programme>	</Broader >
+		<Broader >	<name>	Bhrigu Phukan Das	</name>	<programme>	CHEM SC	</programme>	</Broader >
+		<Broader >	<name>	Bidyut Kr. Das	</name>	<programme>	EFL 	</programme>	</Broader >
+		<Broader >	<name>	Bikash Chetri	</name>	<programme>	MBA	</programme>	</Broader >
+		<Broader >	<name>	Bikramjit Choudhury	</name>	<programme>	Mtech CSE	</programme>	</Broader >
+		<Broader >	<name>	Biman Das	</name>	<programme>	M.TECH	</programme>	</Broader >
+		<Broader >	<name>	Biplab Kumar Das	</name>	<programme>	B.TECH(ECE)	</programme>	</Broader >
+		<Broader >	<name>	Biswah Kr. Das	</name>	<programme>	PHYSICS	</programme>	</Broader >
+		<Broader >	<name>	Biswajit Hazarika	</name>	<programme>	CHEMICAL Sc.	</programme>	</Broader >
+		<Broader >	<name>	Biswajit Shyam	</name>	<programme>	ENERGY 	</programme>	</Broader >
+		<Broader >	<name>	Bitu Das	</name>	<programme>	MBA	</programme>	</Broader >
+		<Broader >	<name>	Chandan Kalita	</name>	<programme>	CSE	</programme>	</Broader >
+		<Broader >	<name>	Debi Pratim Baidya	</name>	<programme>	MBA	</programme>	</Broader >
+		<Broader >	<name>	Debobrot Borgohain	</name>	<programme>	NANO-SCIENCE	</programme>	</Broader >
+		<Broader >	<name>	Deepak Sharma	</name>	<programme>	MBA	</programme>	</Broader >
+		<Broader >	<name>	Deepjyoti Borgohain	</name>	<programme>	MATHS	</programme>	</Broader >
+		<Broader >	<name>	Deepjyoti Borgohain	</name>	<programme>	MATHS	</programme>	</Broader >
+		<Broader >	<name>	Dilip Hazarika	</name>	<programme>	MA ENGLISH	</programme>	</Broader >
+		<Broader >	<name>	Dimpal Jyoti Mahata	</name>	<programme>	MATHS SC	</programme>	</Broader >
+		<Broader >	<name>	Dipankar Bhagawati	</name>	<programme>	MCJ	</programme>	</Broader >
+		<Broader >	<name>	Dipankar Borah	</name>	<programme>	ELF 	</programme>	</Broader >
+		<Broader >	<name>	Dipankar Hazarika	</name>	<programme>	MATHS	</programme>	</Broader >
+		<Broader >	<name>	Dipranjan Baishnab	</name>	<programme>	ECE	</programme>	</Broader >
+		<Broader >	<name>	Gajendra Mohan Baldodya	</name>	<programme>	MBBT 	</programme>	</Broader >
+		<Broader >	<name>	Gaurav Das	</name>	<programme>	MCJ	</programme>	</Broader >
+		<Broader >	<name>	Gautam Borah	</name>	<programme>	MBA	</programme>	</Broader >
+		<Broader >	<name>	Gautam Gogoi	</name>	<programme>	EFL	</programme>	</Broader >
+		<Broader >	<name>	Gopinath Mandal	</name>	<programme>	CHEM SC	</programme>	</Broader >
+		<Broader >	<name>	Hemanga Kumar Das	</name>	<programme>	M.Tech	</programme>	</Broader >
+		<Broader >	<name>	Hemant Lal	</name>	<programme>	MTECH ELDT	</programme>	</Broader >
+		<Broader >	<name>	Homen Gogoi	</name>	<programme>	APP.CHEM	</programme>	</Broader >
+		<Broader >	<name>	Ifterar Hussain Ahmed	</name>	<programme>	MBA	</programme>	</Broader >
+		<Broader >	<name>	Imran Ali	</name>	<programme>	M.TECH(IT)	</programme>	</Broader >
+		<Broader >	<name>	Indrajit Das	</name>	<programme>	CHEM SC	</programme>	</Broader >
+		<Broader >	<name>	Jayanta Bhattacharya	</name>	<programme>	MATHS	</programme>	</Broader >
+		<Broader >	<name>	Jayanta Mout	</name>	<programme>	MCJ	</programme>	</Broader >
+		<Broader >	<name>	Jeet Dutta	</name>	<programme>	MTECH ELDT	</programme>	</Broader >
+		<Broader >	<name>	Jnanendra Upadhyay	</name>	<programme>	PHYSICS	</programme>	</Broader >
+		<Broader >	<name>	Jutang Swer	</name>	<programme>	Mtech IT	</programme>	</Broader >
+		<Broader >	<name>	Jyoti Prakash Das	</name>	<programme>	ENVT SC	</programme>	</Broader >
+		<Broader >	<name>	Kamlesh Kumar	</name>	<programme>	MTECH IT	</programme>	</Broader >
+		<Broader >	<name>	Kangkan Kalita 	</name>	<programme>	M.Tech(IT) 	</programme>	</Broader >
+		<Broader >	<name>	Karen Das	</name>	<programme>	Mtech EC	</programme>	</Broader >
+		<Broader >	<name>	Kashiram Sarmah	</name>	<programme>	MATHS	</programme>	</Broader >
+		<Broader >	<name>	Kaushik Barman	</name>	<programme>	MBA	</programme>	</Broader >
+		<Broader >	<name>	Kaushik Das	</name>	<programme>	Mtech IT	</programme>	</Broader >
+		<Broader >	<name>	Kaushik Dev Sharma	</name>	<programme>	M.Tech IT 	</programme>	</Broader >
+		<Broader >	<name>	Kaushik Saikia	</name>	<programme>	PHYSICS	</programme>	</Broader >
+		<Broader >	<name>	Kaustavmani Das	</name>	<programme>	MCJ	</programme>	</Broader >
+		<Broader >	<name>	Kuldeep Gogoi	</name>	<programme>	CSE	</programme>	</Broader >
+		<Broader >	<name>	Kuldeep Gupta	</name>	<programme>	MBBT	</programme>	</Broader >
+		<Broader >	<name>	Leela Krishna Bassa	</name>	<programme>	CHEM.SC	</programme>	</Broader >
+		<Broader >	<name>	Liton Basak	</name>	<programme>	MTECH ENERGY	</programme>	</Broader >
+		<Broader >	<name>	Lokesh Ch. Kalita	</name>	<programme>	MBA	</programme>	</Broader >
+		<Broader >	<name>	Louis Narzary	</name>	<programme>	EFL	</programme>	</Broader >
+		<Broader >	<name>	M.D. Tabrej	</name>	<programme>	MBA	</programme>	</Broader >
+		<Broader >	<name>	Madhurjya Saikia	</name>	<programme>	ENERGY	</programme>	</Broader >
+		<Broader >	<name>	Mahanandu Phukan	</name>	<programme>	MSC.PHYSICS	</programme>	</Broader >
+		<Broader >	<name>	Manash Jyoti Bordoloi	</name>	<programme>	APP.CHEM	</programme>	</Broader >
+		<Broader >	<name>	Mani Kanta Borah	</name>	<programme>	PHYSICS	</programme>	</Broader >
+		<Broader >	<name>	Manish Phukan	</name>	<programme>	MBA	</programme>	</Broader >
+		<Broader >	<name>	Michaelson War	</name>	<programme>	M A CULTURAL	</programme>	</Broader >
+		<Broader >	<name>	Monjit Chutia	</name>	<programme>	PHYSICS	</programme>	</Broader >
+		<Broader >	<name>	Montu Koibatra	</name>	<programme>	Mtech	</programme>	</Broader >
+		<Broader >	<name>	Mridu Paban Baniya	</name>	<programme>	SOCIOLOGY	</programme>	</Broader >
+		<Broader >	<name>	Mriganka Sikhar Dutta	</name>	<programme>	MATHS	</programme>	</Broader >
+		<Broader >	<name>	Mubarak Hussain	</name>	<programme>	PHYSICS	</programme>	</Broader >
+		<Broader >	<name>	N.K. Kaphungkul	</name>	<programme>	ECE	</programme>	</Broader >
+		<Broader >	<name>	Nabajyoti Das	</name>	<programme>	CSE	</programme>	</Broader >
+		<Broader >	<name>	Nabarun Ghosh	</name>	<programme>	M.Tech IT	</programme>	</Broader >
+		<Broader >	<name>	Nayan Jyoti Sarma	</name>	<programme>	M.Tech IT	</programme>	</Broader >
+		<Broader >	<name>	Nayanjyoti Das	</name>	<programme>	CHEM.SC	</programme>	</Broader >
+		<Broader >	<name>	Neeraj Sarmah	</name>	<programme>	MBA	</programme>	</Broader >
+		<Broader >	<name>	Nehru Pegu	</name>	<programme>	NANO.SC.	</programme>	</Broader >
+		<Broader >	<name>	Nitul Doley	</name>	<programme>	MSc CHEMICAL Sc. 	</programme>	</Broader >
+		<Broader >	<name>	Noel Satish Konwar	</name>	<programme>	SOCIOLOGY	</programme>	</Broader >
+		<Broader >	<name>	Palash Kr. Borah	</name>	<programme>	MATHS	</programme>	</Broader >
+		<Broader >	<name>	Pankaj Borah	</name>	<programme>	ENERGY	</programme>	</Broader >
+		<Broader >	<name>	Pankaj Gogoi	</name>	<programme>	CHEMICAL Sc.	</programme>	</Broader >
+		<Broader >	<name>	Pankaj Sarma	</name>	<programme>	MATHS	</programme>	</Broader >
+		<Broader >	<name>	Paragjyoti Chutia	</name>	<programme>	PHYSICS	</programme>	</Broader >
+		<Broader >	<name>	Partha Pratim Duwarah	</name>	<programme>	NANO-SCIENCE	</programme>	</Broader >
+		<Broader >	<name>	Partha Pratim Duwarah	</name>	<programme>	NANO-SCIENCE	</programme>	</Broader >
+		<Broader >	<name>	Pawan Chetri	</name>	<programme>	PHYSICS	</programme>	</Broader >
+		<Broader >	<name>	Pc Lalremruata	</name>	<programme>	M.TECH(IT)	</programme>	</Broader >
+		<Broader >	<name>	Pragyan Jyoti Gogoi	</name>	<programme>	PHYSICS	</programme>	</Broader >
+		<Broader >	<name>	Pranab Bagoria	</name>	<programme>	CHEMICAL Sc.	</programme>	</Broader >
+		<Broader >	<name>	Pranjal Jyoti Kalita	</name>	<programme>	CHEMICAL Sc.	</programme>	</Broader >
+		<Broader >	<name>	Prasanta Baishya	</name>	<programme>	CHEMICAL Sc.	</programme>	</Broader >
+		<Broader >	<name>	Rabindra Kr. Prasad	</name>	<programme>	M.TECH(IT)	</programme>	</Broader >
+		<Broader >	<name>	Rahul Lahiri	</name>	<programme>	MBA	</programme>	</Broader >
+		<Broader >	<name>	Rajendra Gautam	</name>	<programme>	MATHS	</programme>	</Broader >
+		<Broader >	<name>	Rajesh Sinha	</name>	<programme>	Mtech IT	</programme>	</Broader >
+		<Broader >	<name>	Rajiv Ranjan	</name>	<programme>	MBBT 	</programme>	</Broader >
+		<Broader >	<name>	Rakesh Sahani	</name>	<programme>	CHEMISTRY	</programme>	</Broader >
+		<Broader >	<name>	Ram Balak Mahto	</name>	<programme>	MBBT 	</programme>	</Broader >
+		<Broader >	<name>	Ranadip Pathak	</name>	<programme>	MCJ	</programme>	</Broader >
+		<Broader >	<name>	Ranjan Das	</name>	<programme>	M.Tech	</programme>	</Broader >
+		<Broader >	<name>	Rhitu Kumbang	</name>	<programme>	M.A Clt. Stds.	</programme>	</Broader >
+		<Broader >	<name>	Rinku Borah	</name>	<programme>	MCJ	</programme>	</Broader >
+		<Broader >	<name>	Ritumoni Goswami	</name>	<programme>	M.Tech ELDT	</programme>	</Broader >
+		<Broader >	<name>	Sajal Kanti Das	</name>	<programme>	M.Tech IT	</programme>	</Broader >
+		<Broader >	<name>	Samiran Dutta	</name>	<programme>	EFL	</programme>	</Broader >
+		<Broader >	<name>	Samiran Hazarika	</name>	<programme>	NANO-SCIENCE	</programme>	</Broader >
+		<Broader >	<name>	Sanam Deka	</name>	<programme>	ENGLISH	</programme>	</Broader >
+		<Broader >	<name>	Sanjib Katuwal	</name>	<programme>	CHEM.SC.	</programme>	</Broader >
+		<Broader >	<name>	Santanu Ch.Das	</name>	<programme>	CSE	</programme>	</Broader >
+		<Broader >	<name>	Santu Neog	</name>	<programme>	EFL	</programme>	</Broader >
+		<Broader >	<name>	Sartaj Ahmed	</name>	<programme>	MBBT	</programme>	</Broader >
+		<Broader >	<name>	Sashi Kant Choubey	</name>	<programme>	PHYSICS	</programme>	</Broader >
+		<Broader >	<name>	Sibun Parida	</name>	<programme>	Mtech IT	</programme>	</Broader >
+		<Broader >	<name>	Sidhartha Kashyap Neog	</name>	<programme>	PHYSICS	</programme>	</Broader >
+		<Broader >	<name>	Sikdar Md.S. Askari	</name>	<programme>	M.Tech(IT)	</programme>	</Broader >
+		<Broader >	<name>	Sivam Deb	</name>	<programme>	MBA 	</programme>	</Broader >
+		<Broader >	<name>	Srijit Borah	</name>	<programme>	M.TECH BIO	</programme>	</Broader >
+		<Broader >	<name>	Srinu Bevara	</name>	<programme>	M.Tech IT	</programme>	</Broader >
+		<Broader >	<name>	Subarna Jyoti Kalita	</name>	<programme>	CHEMICAL Sc.	</programme>	</Broader >
+		<Broader >	<name>	Sudipta Mondol	</name>	<programme>	CHEMICAL Sc.	</programme>	</Broader >
+		<Broader >	<name>	Sujit Suklavaidya	</name>	<programme>	MBBT 	</programme>	</Broader >
+		<Broader >	<name>	Suman Thakur	</name>	<programme>	APP.CHEM	</programme>	</Broader >
+		<Broader >	<name>	Surjya Loying	</name>	<programme>	MBBT	</programme>	</Broader >
+		<Broader >	<name>	Titash Roy	</name>	<programme>	ECE	</programme>	</Broader >
+		<Broader >	<name>	Tridip N. Basista	</name>	<programme>	MCJ	</programme>	</Broader >
+		<Broader >	<name>	Ujal Ghosh	</name>	<programme>	APP.CHEM	</programme>	</Broader >
+		<Broader >	<name>	Vanlalhruaia	</name>	<programme>	MTECH IT	</programme>	</Broader >
+		<Broader >	<name>	Vivekananda Dey	</name>	<programme>	CHEMICAL Sc.	</programme>	</Broader >
+		<Broader >	<name>	Zakir Ahmed	</name>	<programme>	MATHS	</programme>	</Broader >
+	</y2011>
+
+	<y2012>
+		<Broader >	<name>	Abhijit Borgohain 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Aitwar Kishor Devanna 	</name>	<programme>	M.TECH (FPT) 	</programme>	</Broader >
+		<Broader >	<name>	Ajoy Sahu 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Amardeep Shah 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Anuj Pratim Baruah 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Anwar Ali 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Arabindu Dey 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Arbaz Ahmed Khan 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Ariful Ul Hoque 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Arjun Majumdar 	</name>	<programme>	M.TECH (FPT) 	</programme>	</Broader >
+		<Broader >	<name>	Baburam Saikia 	</name>	<programme>	M.A. 	</programme>	</Broader >
+		<Broader >	<name>	Basanta Pegu 	</name>	<programme>	M.Sc (MATHS) 	</programme>	</Broader >
+		<Broader >	<name>	Bernard Nongpoh 	</name>	<programme>	M.TECH (IT) 	</programme>	</Broader >
+		<Broader >	<name>	Bhaskar Jyoti Goswami 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Bidyut Jyoti Bezbaruah 	</name>	<programme>	M.TECH (FPT) 	</programme>	</Broader >
+		<Broader >	<name>	Bikram Jyoti Das 	</name>	<programme>	M.A. 	</programme>	</Broader >
+		<Broader >	<name>	Bimal Das 	</name>	<programme>	M.SC (PHYSICS) 	</programme>	</Broader >
+		<Broader >	<name>	Bineet Ranjan Saikia 	</name>	<programme>	M.A. 	</programme>	</Broader >
+		<Broader >	<name>	Binoy Chetia 	</name>	<programme>	M.A. 	</programme>	</Broader >
+		<Broader >	<name>	Birinchi Kumar Dutta 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Chiranjib Saikia 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	David Lagachu 	</name>	<programme>	M.A. 	</programme>	</Broader >
+		<Broader >	<name>	Dulu Dihingia 	</name>	<programme>	M.SC (maths) 	</programme>	</Broader >
+		<Broader >	<name>	Ekalabya Sonowal 	</name>	<programme>	MBA 	</programme>	</Broader >
+		<Broader >	<name>	Gajendra Singh Bagdodia 	</name>	<programme>	M.SC (MBBT) 	</programme>	</Broader >
+		<Broader >	<name>	Griten Goyary 	</name>	<programme>	M.A. 	</programme>	</Broader >
+		<Broader >	<name>	Hiranmoy Das 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Jyotismoy Baruah 	</name>	<programme>	SOCIOLOGY 	</programme>	</Broader >
+		<Broader >	<name>	Kh. Sanamoni Singh 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Khammoun Phukan 	</name>	<programme>	M.A. 	</programme>	</Broader >
+		<Broader >	<name>	Kishor Saikia 	</name>	<programme>	M.A. 	</programme>	</Broader >
+		<Broader >	<name>	Krishna Kumar Saikia 	</name>	<programme>	M.A. 	</programme>	</Broader >
+		<Broader >	<name>	Kuldeep Gogoi 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Kunal Biswas 	</name>	<programme>	M.SC (PHYSICS) 	</programme>	</Broader >
+		<Broader >	<name>	Leeton Basak 	</name>	<programme>	M.TECH (ENERGY) 	</programme>	</Broader >
+		<Broader >	<name>	Madhurjya Saikia 	</name>	<programme>	MBA 	</programme>	</Broader >
+		<Broader >	<name>	Mancha Jyoti Malakar 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Manish Kr. Singh 	</name>	<programme>	M.Tech (ELDT) 	</programme>	</Broader >
+		<Broader >	<name>	Manish Kumar Singh 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Mishik Sarmah 	</name>	<programme>	M.A. 	</programme>	</Broader >
+		<Broader >	<name>	Monoj Kumar Das 	</name>	<programme>	M.SC (MBBT) 	</programme>	</Broader >
+		<Broader >	<name>	Mridul Bhattacharyya 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Nabajit Gogoi 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Nabajyoti Das 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Nikhil Mahnot 	</name>	<programme>	M.TECH (FPT) 	</programme>	</Broader >
+		<Broader >	<name>	Parag Kumar Deka 	</name>	<programme>	M.A. 	</programme>	</Broader >
+		<Broader >	<name>	Pinku Boruah 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Pranjal Deka 	</name>	<programme>	M.TECH (FPT) 	</programme>	</Broader >
+		<Broader >	<name>	Praveen Kumar 	</name>	<programme>	M.Sc (MBBT) 	</programme>	</Broader >
+		<Broader >	<name>	Prithu Baruah 	</name>	<programme>	M.SC (MBBT) 	</programme>	</Broader >
+		<Broader >	<name>	Pulakesh Baruah 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Pulakesh Das 	</name>	<programme>	M.SC (PHYSICS) 	</programme>	</Broader >
+		<Broader>	<name>	Rajiv Ranjan 	</name>	<programme>	M.SC (MBBT) 	</programme>	</Broader >
+		<Broader >	<name>	Raju Chetry 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Rikibuddin Ahmed 	</name>	<programme>	M.A. 	</programme>	</Broader >
+		<Broader >	<name>	Ringkhang Baglari 	</name>	<programme>	M.A. (MCJ) 	</programme>	</Broader >
+		<Broader >	<name>	Sagar Behera 	</name>	<programme>	M.A. 	</programme>	</Broader >
+		<Broader >	<name>	Santanu Das 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Santanu Rowmuria 	</name>	<programme>	M.A. (MCJ) 	</programme>	</Broader >
+		<Broader >	<name>	Sourabh Sutradhar 	</name>	<programme>	MCA 	</programme>	</Broader >
+		<Broader >	<name>	Tapan Kumar Nath 	</name>	<programme>	M.A. (MCJ) 	</programme>	</Broader >
+	</y2012>
+
+	<y2013>
+		<Broader >	<name> UNDER</name>	<programme>	CONSTRUCTION</programme>	</Broader >
+	</y2013>
+
+	<y2014>
+		<Broader >	<name> Adhiraj Saikia</name>	<programme>	M.Sc. (PHY)</programme>	</Broader >
+		<Broader >	<name> Ajit Das</name>	<programme>	M.Sc. (PHY)</programme>	</Broader >
+		<Broader >	<name> Amit Dubey</name>	<programme>	MCA </programme>	</Broader >
+		<Broader >	<name> Amlan Jyoti Bhagawati</name>	<programme>	M.Tech. (Bioelectronics)</programme>	</Broader >
+		<Broader >	<name> Aniket  Girish Parab</name>	<programme>	M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Anjan Kalita</name>	<programme>	MBA </programme>	</Broader >
+		<Broader >	<name> Awal Rezzak Rahman</name>	<programme>	MA (EFL)</programme>	</Broader >
+		<Broader >	<name> Bharat Pratim Gogoi</name>	<programme>	MCA</programme>	</Broader >
+		<Broader >	<name> Bhargav Sharma</name>	<programme>	M.Tech. (ELDT)</programme>	</Broader >
+		<Broader >	<name> Bhaskar Jyoti Dutta</name>	<programme>	M.Tech. (Polymer Science)</programme>	</Broader >
+		<Broader >	<name> Bhrigu Phukan Das</name>	<programme>	I.M.SC. (CHEM)</programme>	</Broader >
+		<Broader >	<name> Bhugendra Chutia</name>	<programme>	M.Sc. (CHEM)</programme>	</Broader >
+		<Broader >	<name> Bichitra Bijoy Boruah</name>	<programme>	M.Sc. (PHY)</programme>	</Broader >
+		<Broader >	<name> Bidyut Jyoti Hazarika</name>	<programme>	M.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Bishwadeep Poddar</name>	<programme>	M.Tech. (ELDT)</programme>	</Broader >
+		<Broader >	<name> Biswaranjan Swain</name>	<programme>	M.Tech. (IT)</programme>	</Broader >
+		<Broader >	<name> Chaitanya Prasad Barik</name>	<programme>	M.Tech. (IT)</programme>	</Broader >
+		<Broader >	<name> Chandra Borah</name>	<programme>	M.Sc. (MATHS)</programme>	</Broader >
+		<Broader >	<name> Debajeet Gogoi</name>	<programme>	M.Tech. (ENE)</programme>	</Broader >
+		<Broader >	<name> Dhiman Banik</name>	<programme>	M.Sc. (Nanoscience and Tech.)</programme>	</Broader >
+		<Broader >	<name> Dhiman Dutta</name>	<programme>	M.Sc. (MATHS)</programme>	</Broader >
+		<Broader >	<name> Dhritiman Banik</name>	<programme>	MBA </programme>	</Broader >
+		<Broader >	<name> Dhruba Jyoyi Gogoi</name>	<programme>	M.Sc. (PHY)</programme>	</Broader >
+		<Broader >	<name> Dhruva Jyoti Sarmah</name>	<programme>	MBA </programme>	</Broader >
+		<Broader >	<name> Dimbeswar Baishya</name>	<programme>	M.Tech. (IT) </programme>	</Broader >
+		<Broader >	<name> Dipak Kr Brahma</name>	<programme>	M.Tech. (ENE)</programme>	</Broader >
+		<Broader >	<name> Dipankar Das</name>	<programme>	MBA </programme>	</Broader >
+		<Broader >	<name> Gauravendu Deb Roy</name>	<programme>	MBA </programme>	</Broader >
+		<Broader >	<name> Girish Rabha</name>	<programme>	B.TECH.(ECE)</programme>	</Broader >
+		<Broader >	<name> Harikanta Mahodi</name>	<programme>	M.Sc. (Maths)</programme>	</Broader >
+		<Broader >	<name> Hiark Saikia</name>	<programme>	M.Sc. (CHEM)</programme>	</Broader >
+		<Broader >	<name> Indranil Kakoty</name>	<programme>	M.A. (Cult)</programme>	</Broader >
+		<Broader >	<name> Iraqdao Goyari</name>	<programme>	Certf. In Chinese</programme>	</Broader >
+		<Broader >	<name> Ishaan Saikia</name>	<programme>	M.Tech. (BIO)</programme>	</Broader >
+		<Broader >	<name> Jitumoni Sarma</name>	<programme>	M.Tech. (BIO)</programme>	</Broader >
+		<Broader >	<name> Joy Bhowmik</name>	<programme>	M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Jwngshar Brahma      </name>	<programme>	Certf. In Chinese</programme>	</Broader >
+		<Broader >	<name> Jyoti Prasad Mohanta</name>	<programme>	M.Tech. (IT)</programme>	</Broader >
+		<Broader >	<name> Kalyan Jyoti Mohan</name>	<programme>	M.Sc. (MATHS)</programme>	</Broader >
+		<Broader >	<name> Karunakar Borah</name>	<programme>	M.Tech. (ELDT)</programme>	</Broader >
+		<Broader >	<name> Kaushik Das</name>	<programme>	M.Tech. (ELDT)</programme>	</Broader >
+		<Broader >	<name> Khagendra Dahal</name>	<programme>	M.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Kuldeep Haloi</name>	<programme>	M.Tech. (IT)</programme>	</Broader >
+		<Broader >	<name> Litan Roy</name>	<programme>	MBA </programme>	</Broader >
+		<Broader >	<name> Madhurya Talukdar</name>	<programme>	Int M.Sc. (PHY)</programme>	</Broader >
+		<Broader >	<name> Manash Pratim Borah</name>	<programme>	M.Sc. (NANO)</programme>	</Broader >
+		<Broader >	<name> Mangsatabam P. Meitei</name>	<programme>	M.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Manimugdha Das</name>	<programme>	MBA </programme>	</Broader >
+		<Broader >	<name> Manjil Pratim Saikia</name>	<programme>	Int. M.Sc. (MATHS)</programme>	</Broader >
+		<Broader >	<name> Mausam Hazarika</name>	<programme>	MA (SOCIOLOGY)</programme>	</Broader >
+		<Broader >	<name> Mayur Barman</name>	<programme>	M.Tech. (ENE)</programme>	</Broader >
+		<Broader >	<name> Md. Altaf Hussain</name>	<programme>	M.Sc. (MATHS)</programme>	</Broader >
+		<Broader >	<name> Mehboob Alam</name>	<programme>	M.Tech. (IT)</programme>	</Broader >
+		<Broader >	<name> Mrinmoy Das</name>	<programme>	MCJ</programme>	</Broader >
+		<Broader >	<name> Mritunjoy Chakravorty</name>	<programme>	M.Sc. (PHY)</programme>	</Broader >
+		<Broader >	<name> Mrityunjay Sutradhar</name>	<programme>	B.TECH.(ME)</programme>	</Broader >
+		<Broader >	<name> Neelavo Dey</name>	<programme>	M.Sc. (EVS)</programme>	</Broader >
+		<Broader >	<name> Nibir Akash Baruah</name>	<programme>	MCJ </programme>	</Broader >
+		<Broader >	<name> Nilanajan Som</name>	<programme>	M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Nirupam Dev</name>	<programme>	M.TECH. (FPT)</programme>	</Broader >
+		<Broader >	<name> Pankaj Jha</name>	<programme>	M.Tech. (ELDT)</programme>	</Broader >
+		<Broader >	<name> Pankaj Phukan</name>	<programme>	MCA</programme>	</Broader >
+		<Broader >	<name> Parthajit Borah</name>	<programme>	MCA</programme>	</Broader >
+		<Broader >	<name> Partha Jyoti Borthakur</name>	<programme>	MBA </programme>	</Broader >
+		<Broader >	<name> Partha Pratim Bora</name>	<programme>	M.Sc. (EVS)</programme>	</Broader >
+		<Broader >	<name> Parvinder Singh</name>	<programme>	M.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Pawan Gupta</name>	<programme>	MCA </programme>	</Broader >
+		<Broader >	<name> Pawan Kumar</name>	<programme>	M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Pitambar Baishya</name>	<programme>	M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Prabhash Ranjan Swain</name>	<programme>	M.Tech. (IT)</programme>	</Broader >
+		<Broader >	<name> Pragyan Sharma</name>	<programme>	M.Sc. (EVS)</programme>	</Broader >
+		<Broader >	<name> Prakash Konwar</name>	<programme>	M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Rahul Agarwal</name>	<programme>	M.Tech. (ENE)</programme>	</Broader >
+		<Broader >	<name> Rahul Hazarika</name>	<programme>	Int. M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Rahul Paul</name>	<programme>	MBA </programme>	</Broader >
+		<Broader >	<name> Rajesh Das</name>	<programme>	M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Raju Ram Boro</name>	<programme>	MA (EFL)</programme>	</Broader >
+		<Broader >	<name> Rhitwikraj Moudgalyal</name>	<programme>	M.Tech. (BIO)</programme>	</Broader >
+		<Broader >	<name> Rudra Prasad Giri</name>	<programme>	I.M.SC. (CHEM)</programme>	</Broader >
+		<Broader >	<name> Salik Miskat Borbora</name>	<programme>	M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Samiran Borah</name>	<programme>	MCJ </programme>	</Broader >
+		<Broader >	<name> Sarungbam Romen Singh</name>	<programme>	M.Tech. (ENE)</programme>	</Broader >
+		<Broader >	<name> Sashi Kant Choubey</name>	<programme>	I.M.SC. (PHY)</programme>	</Broader >
+		<Broader >	<name> Satyabrat Prasad Saikia</name>	<programme>	MA (CULT)</programme>	</Broader >
+		<Broader >	<name> Saurav Bhattacharya</name>	<programme>	M.Sc. (EVS)</programme>	</Broader >
+		<Broader >	<name> Sibir Das</name>	<programme>	MCA</programme>	</Broader >
+		<Broader >	<name> Siddartha Das</name>	<programme>	M.Sc. (MATHS)</programme>	</Broader >
+		<Broader >	<name> Sonti Roy</name>	<programme>	M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Subarna Basak</name>	<programme>	MCA </programme>	</Broader >
+		<Broader >	<name> Tanmoy Ranjan Patgiri</name>	<programme>	MBA </programme>	</Broader >
+		<Broader >	<name> Vidyapati  Jha</name>	<programme>	M.Tech. (IT)</programme>	</Broader >
+		<Broader >	<name> Vijay Kr. Jaiswal</name>	<programme>	M.Tech. (ENE)</programme>	</Broader >
+		<Broader >	<name> Vivek Basumatary</name>	<programme>	M.Tech. (ENE)</programme>	</Broader >
+		<Broader >	<name> Yumnam Roshan Singh</name>	<programme>	M.Tech. (FET)</programme>	</Broader >
+	</y2014>
+	
+	<y2015>
+		<Broader >	<name> Madhurjya Phukan</name>	<programme>	B.Tech. (ME)</programme>	</Broader >
+	    <Broader >	<name> Shuvananda Das</name>	<programme>	B.Tech. (ME)</programme>	</Broader >
+	    <Broader >	<name> Junak Kashyap</name>	<programme>	B.Tech. (CSE)</programme>	</Broader >
+        <Broader >	<name> Kankan Barman</name>	<programme>	B.Tech. (ECE)</programme>	</Broader >
+        <Broader >	<name> Aminul Hussain Khan</name>	<programme>	B.Tech. (ECE)</programme>	</Broader >
+        <Broader >	<name> Mahesh Kumar Agarwalla</name>	<programme>	B.Tech. (CIVIL)</programme>	</Broader >
+        <Broader >	<name> Subhankar Das</name>	<programme>	B.Tech. (CIVIL)</programme>	</Broader >
+        <Broader >	<name> Sazid Zamal Haque</name>	<programme>	B.Tech. (ME)</programme>	</Broader >
+        <Broader >	<name> Suraj Tiwari</name>	<programme>	B.Tech. (ME)</programme>	</Broader >
+        <Broader >	<name> Deep Kishore Barman</name>	<programme>	M.A. (ENGLISH)</programme>	</Broader >
+        <Broader >	<name> Biki Borah</name>	<programme>	B.Tech. (FET)</programme>	</Broader >
+        <Broader >	<name> Narendra Kumar</name>	<programme>	M.Sc. (MBBT)</programme>	</Broader >
+        <Broader >	<name> Amrendra Kumar</name>	<programme>	M.Sc. (MBBT)</programme>	</Broader >
+        <Broader >	<name> Dhiraj Saikia</name>	<programme>	PGDTM (BA)</programme>	</Broader >
+        <Broader >	<name> Aviral Pandey</name>	<programme>	B.Tech. (CSE)</programme>	</Broader >
+        <Broader >	<name> Uddipta Gautam</name>	<programme>	B.Tech. (ME)</programme>	</Broader >
+        <Broader >	<name> Nripen Kalita</name>	<programme>	B.Tech. (ME)</programme>	</Broader >
+        <Broader >	<name> Saurav Jyoti Sharma</name>	<programme>	MBA (BA)</programme>	</Broader >
+        <Broader >	<name> Arindom Kasyap</name>	<programme>	MBA (BA)</programme>	</Broader >
+        <Broader >	<name> Jyotirmoy Roy</name>	<programme>	B.Tech. (CIVIL)</programme>	</Broader >
+        <Broader >	<name> Kumaril Sarma</name>	<programme>	B.Tech. (CSE)</programme>	</Broader >
+        <Broader >	<name> Subhankar Das</name>	<programme>	B.Tech. (ME)</programme>	</Broader >
+        <Broader >	<name> Antriksh Asthana</name>	<programme>	MBA (BA)</programme>	</Broader >
+        <Broader >	<name> Novaroon Ojah</name>	<programme>	B.Tech. (ECE)</programme>	</Broader >
+        <Broader >	<name> Chaitanya Kumar Borah</name>	<programme>	B.Tech. (ECE)</programme>	</Broader >
+        <Broader >	<name> Biswajit Sahariah</name>	<programme>	M.Sc. (PHYSICS)</programme>	</Broader >
+        <Broader >	<name> Kaushik Kakati</name>	<programme>	B.Tech. (CSE)</programme>	</Broader >
+        <Broader >	<name> Pinaki Banerjee</name>	<programme>	M.Sc. (MBBT)</programme>	</Broader >
+        <Broader >	<name> Angshuman Sharma</name>	<programme>	B.Tech. (ME)</programme>	</Broader >
+        <Broader >	<name> Ankur Borgohain</name>	<programme>	B.Tech. (ME)</programme>	</Broader >
+        <Broader >	<name> Surajit Saikia</name>	<programme>	M.A. (ENGLISH)</programme>	</Broader >
+        <Broader >	<name> Manash Pratim Das</name>	<programme>	M.A. (CULT. STU.)</programme>	</Broader >
+        <Broader >	<name> Tridip Konwar</name>	<programme>	B.Tech. (FET)</programme>	</Broader >
+        <Broader >	<name> Jyotishman Handique</name>	<programme>	B.Tech. (FET)</programme>	</Broader >
+        <Broader >	<name> Indrajit Borah</name>	<programme>	B.Tech. (CSE)</programme>	</Broader >
+        <Broader >	<name> Puskar Luiten</name>	<programme>	B.Tech. (ME)</programme>	</Broader >
+        <Broader >	<name> Jyotirmoy Kumar Das</name>	<programme>	B.Tech. (CIVIL)</programme>	</Broader >
+        <Broader >	<name> Deep Jyoti Medhi</name>	<programme>	B.Tech. (CIVIL)</programme>	</Broader >
+        <Broader >	<name> Anurag Bhattacharya</name>	<programme>	MCA (CSE)</programme>	</Broader >
+        <Broader >	<name> Binoy Borah</name>	<programme>	MCA (CSE)</programme>	</Broader >
+        <Broader >	<name> Shyamol J. Dowarah</name>	<programme>	MCA (CSE)</programme>	</Broader >
+        <Broader >	<name> Benjamin Buragohain</name>	<programme>	M.Sc. (PHYSICS)</programme>	</Broader >
+        <Broader >	<name> Kuldeep Misra</name>	<programme>	B.Tech. (CSE)</programme>	</Broader >
+        <Broader >	<name> Birinchi Kumar Boruah</name>	<programme>	M.Sc. (MATHS)</programme>	</Broader >
+        <Broader >	<name> Nabin Sarmah</name>	<programme>	M.Sc. (PHYSICS)</programme>	</Broader >
+        <Broader >	<name> Anshuman Saikia</name>	<programme>	M.Sc. (MATHS)</programme>	</Broader >
+        <Broader >	<name> Niku Das</name>	<programme>	MBA (CSE)</programme>	</Broader >
+        <Broader >	<name> Goutam Borah</name>	<programme>	PGDTM (BA)</programme>	</Broader >
+        <Broader >	<name> Kundan Kumar</name>	<programme>	B.Tech. (ECE)</programme>	</Broader >
+        <Broader >	<name> Aditya Gaurav</name>	<programme>	B.Tech. (CSE)</programme>	</Broader >
+        <Broader >	<name> Tiken Chandra Das</name>	<programme>	M.Sc. (PHYSICS)</programme>	</Broader >
+        <Broader >	<name> Kumar Amlan Das</name>	<programme>	MBA (BA)</programme>	</Broader >
+        <Broader >	<name> Hirak Jyoti Das</name>	<programme>	M.Sc. (PHYSICS)</programme>	</Broader >
+        <Broader >	<name> Ritupan Borah</name>	<programme>	M.Sc. (PHYSICS)</programme>	</Broader >
+	    <Broader >	<name> Anuran Goswami</name>	<programme>	M.Sc. (CHEM. Sc.)</programme>	</Broader >
+	    <Broader >	<name> Ajay Sharma</name>	<programme>	M.Sc. (MATHS)</programme>	</Broader >
+        <Broader >	<name> Govinda Dhar</name>	<programme>	PGDTM (BA)</programme>	</Broader >
+        <Broader >	<name> Chau Myaseng C. Thoomten</name>	<programme>	MBA (BA)</programme>	</Broader >
+        <Broader >	<name> Manabendra Sarma</name>	<programme>	M.A. (SOCIOLOGY)</programme>	</Broader >
+        <Broader >	<name> Rahul Kamalapuri</name>	<programme>	M.Sc. (PHYSICS)</programme>	</Broader >
+        <Broader >	<name> Rupam Kumar Das</name>	<programme>	MBA (BA)</programme>	</Broader >
+        <Broader >	<name> Bichitra Doloi</name>	<programme>	PGDTM (BA)</programme>	</Broader >
+        <Broader >	<name> Ankur Buragohain</name>	<programme>	MBA (BA)</programme>	</Broader >
+        <Broader >	<name> Hemant</name>	<programme>	MBA (BA)</programme>	</Broader >
+        <Broader >	<name> Ringsat Narzary</name>	<programme>	M.A. (MCJ)</programme>	</Broader >
+        <Broader >	<name> Gaurav Kumar</name>	<programme>	B. Tech. (ME)</programme>	</Broader >
+        <Broader >	<name> Hemen Das</name>	<programme>	M.A. (MCJ)</programme>	</Broader >
+        <Broader >	<name> Jaygeswar Darik</name>	<programme>	M.Sc. (MATHS)</programme>	</Broader >
+        <Broader >	<name> Dipjyoti Kachary</name>	<programme>	M.A. (MCJ)</programme>	</Broader >
+        <Broader >	<name> Uttam Kumar Das</name>	<programme>	M.Sc. (PHYSICS)</programme>	</Broader >
+        <Broader >	<name> Parash Jyoti Gohain</name>	<programme>	MBA (BA)</programme>	</Broader >
+        <Broader >	<name> Probhat Deori</name>	<programme>	MCA (CSE)</programme>	</Broader >
+        <Broader >	<name> Ripunjoy Deka</name>	<programme>	MBA (BA)</programme>	</Broader >
+        <Broader >	<name> Utpal Talukdar</name>	<programme>	B.Tech. (CIVIL)</programme>	</Broader >
+        <Broader >	<name> Rituraj Dutta</name>	<programme>	Int. M.Sc. (PHYSICS)</programme>	</Broader >
+        <Broader >	<name> Gautam Saikia</name>	<programme>	Int. M.Sc. (PHYSICS)</programme>	</Broader >
+        <Broader >	<name> Raju Roy</name>	<programme>	Int. M.Sc. (MBBT)</programme>	</Broader >
+        <Broader >	<name> Abhijit Borah</name>	<programme>	M.Sc. (EVS)</programme>	</Broader >
+        <Broader >	<name> Sidhant Pratap Singh</name>	<programme>	B.Tech. (CIVIL)</programme>	</Broader >
+        <Broader >	<name> Anurag Kumar</name>	<programme>	B.Tech. (ECE)</programme>	</Broader >
+        <Broader >	<name> Ravindra Kumar Yadav</name>	<programme>	B.Tech. (CSE)</programme>	</Broader >
+        <Broader >	<name> Ajeet Kumar</name>	<programme>	B.Tech. (CIVIL)</programme>	</Broader >
+        <Broader >	<name> Rahul Kumar</name>	<programme>	B.Tech. (FET)</programme>	</Broader >
+        <Broader >	<name> Homen Lahan</name>	<programme>	M.Sc. (PHYSICS)</programme>	</Broader >
+        <Broader >	<name> Shwetabh Singh</name>	<programme>	B.Tech. (ME)</programme>	</Broader >
+        <Broader >	<name> Sumit Kumar</name>	<programme>	B.Tech. (CSE)</programme>	</Broader >
+        <Broader >	<name> Vardan Singh</name>	<programme>	B.Tech. (FET)</programme>	</Broader >
+        <Broader >	<name> Saranga Sarma</name>	<programme>	B.Tech. (CSE)</programme>	</Broader >
+        <Broader >	<name> Rubiram Timung</name>	<programme>	M.A. (CULT. STU.)</programme>	</Broader >
+        <Broader >	<name> Arin Kumar</name>	<programme>	B.Tech. (FET)</programme>	</Broader >
+        <Broader >	<name> Vivek Kumar</name>	<programme>	B.Tech. (ECE)</programme>	</Broader >
+        <Broader >	<name> Musharab Khan</name>	<programme>	B.Tech. (FET)</programme>	</Broader >
+        <Broader >	<name> Manjeet Yadav</name>	<programme>	B.Tech. (CIVIL)</programme>	</Broader >
+	</y2015>
+	
+	<y2016>
+		<Broader >	<name> Parvinder Singh</name>	<programme> Int. M.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Anirban Sarma</name>	<programme> M.Sc. (PHYSICS)</programme>	</Broader >
+		<Broader >	<name>Debasish Jana</name>	<programme> M.Sc. (PHYSICS)</programme>	</Broader >
+		<Broader >	<name> Mousam Pal</name>	<programme> M.Sc. (PHYSICS)</programme>	</Broader >
+		<Broader >	<name> Rakesh Kumar Boruah</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Nitish Kashyap</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Aftab Ansari</name>	<programme> M.Sc. (PHYSICS)</programme>	</Broader >
+		<Broader >	<name>Rajesh Kumar</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Prasenjit Ray</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Himangshu Bhuyan</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Bibek Mohan Sarmah</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Roshan Kumar</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Rameshwar Singh Kashyap</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Bhrigu Raj Boro</name>	<programme> M.A. (SOCIOLOGY)</programme>	</Broader >
+		<Broader >	<name> Yaseer Arafat</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Pranjal Das</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Nazrul Islam</name>	<programme> M.Sc. (EVS)</programme>	</Broader >
+		<Broader >	<name> Surajit Paul</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Jyoti Prasad Biswas</name>	<programme> M.Sc. (CHEMICAL)</programme>	</Broader >
+		<Broader >	<name> Dhrubajyoti Bhuyan</name>	<programme> PGDTM (BA)</programme>	</Broader >
+		<Broader >	<name> Manish Kumar</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Abhijit Das</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Raktim Abha Saikia</name>	<programme> M.Sc. (CHEMICAL)</programme>	</Broader >
+		<Broader >	<name> Pritam mausam Borah</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Ikbal Hussain Laskar</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Debarup Borah</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Alok Kumar Das</name>	<programme> M.Sc. (PHYSICS)</programme>	</Broader >
+		<Broader >	<name> Wasim Nazir</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Abinash Lama</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Pragyan Phukan</name>	<programme> M.Sc. (PHYSICS)</programme>	</Broader >
+		<Broader >	<name> Abhishek Patiri</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Ashim Saikia</name>	<programme> M.Sc. (MATHS)</programme>	</Broader >
+		<Broader >	<name> Satyajit Gayan</name>	<programme> M.Sc. (MATHS)</programme>	</Broader >
+		<Broader >	<name> Syed Hussan Ashraf</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Tapovrata Handique</name>	<programme> M.Sc. (MATHS)</programme>	</Broader >
+		<Broader >	<name> Bitubhai Narah</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Bhaskardeep Kalita</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Jyotirmoy Gupta</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Dibakar Dutta</name>	<programme> M.Sc. (MATHS)</programme>	</Broader >
+		<Broader >	<name> Pranab Jyoti Das</name>	<programme> Int. m.Sc. (CHEMICAL)</programme>	</Broader >
+		<Broader >	<name> Subhankar Das</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Musharab Khan</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Zareef Askary</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Bhaskar Jyoti Borah</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Shantanu Kumar</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Manish Baruah</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Jibanta Borah</name>	<programme> M.Sc. (MATHS)</programme>	</Broader >
+		<Broader >	<name> Champak Kr. Neog</name>	<programme> M.Sc. (MATHS)</programme>	</Broader >
+		<Broader >	<name> Rup Jyoti Das</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Subhadeep Dey</name>	<programme> M.Sc. (PHYSICS)</programme>	</Broader >
+		<Broader >	<name> Abhilash Jyoti Boruah</name>	<programme> MCA (CSE)</programme>	</Broader >
+		<Broader >	<name> Vijay Raj</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Angshuman Singh</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Biman Kashyap Deka</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Surjyakiran Gogoi</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Ashik Khan</name>	<programme> M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Kuldeep Dutta</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Ankuran Buragohain</name>	<programme> M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Utpal Das</name>	<programme> M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Bhaskar Boro</name>	<programme> M.A. (CULTURAL)</programme>	</Broader >
+		<Broader >	<name> Birinchi Kumar Nath</name>	<programme> M.A. (CULTURAL)</programme>	</Broader >
+		<Broader >	<name> Amlan Kishur Hazarika</name>	<programme> Diploma in P. Practice</programme>	</Broader >
+		<Broader >	<name> Arghya Ghosh</name>	<programme> M.Sc. (PHYSICS)</programme>	</Broader >
+		<Broader >	<name> Bodhaditya Roy</name>	<programme> M.Sc. (EVS)</programme>	</Broader >
+		<Broader >	<name> Jyotishman Kalita</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Udit Ranjan Dutta</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Deepsundar Borthakur</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Dhiru Sarania</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Sumit Kumar</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Anand Mohan Singh</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Bijit Kalita</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Jyodwip Sinha Ray</name>	<programme> M.Sc. (PHYSICS)</programme>	</Broader >
+		<Broader >	<name> Leki Wangchu</name>	<programme> Int. M.Sc. (MATHS)</programme>	</Broader >
+		<Broader >	<name> Pritam Das</name>	<programme> M.Sc. (PHYSICS)</programme>	</Broader >
+		<Broader >	<name> Pabitra Das</name>	<programme> M.Sc. (NCT)</programme>	</Broader >
+		<Broader >	<name> Deepak Kumar</name>	<programme> MBA (BA)</programme>	</Broader >
+		<Broader >	<name> Bhaskar Jyoti Bhuyan</name>	<programme> MBA (BA)</programme>	</Broader >
+		<Broader >	<name> Rajesh Thakur</name>	<programme> MBA (BA)</programme>	</Broader >
+		<Broader >	<name> Rishab Dhar</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Sonu Kumar</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Prachurya Saikia</name>	<programme> MBA (BA)</programme>	</Broader >
+		<Broader >	<name> Dhrubajyoti Choudhury</name>	<programme> MBA (BA)</programme>	</Broader >
+		<Broader >	<name> Ankit Bajoria</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Zoheb Rizvi Ahmed</name>	<programme> MBA (BA)</programme>	</Broader >
+		<Broader >	<name> David Kumar Rajbangshi</name>	<programme> MBA (BA)</programme>	</Broader >
+		<Broader >	<name> Rahul Gogoi</name>	<programme> MBA (BA)</programme>	</Broader >
+		<Broader >	<name> Arup Hajarika</name>	<programme> M.A. (MCJ)</programme>	</Broader >
+		<Broader >	<name> Lakhya J. Bora</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Sandeep Kumar</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Hemanta Sarmah</name>	<programme> MCA (CSE)</programme>	</Broader >
+		<Broader >	<name> Amit Kumar</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Debajit Saha</name>	<programme> M.A. (MCJ)</programme>	</Broader >
+		<Broader >	<name> Ram Bhawan Shivhare</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Alok P. Singh</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Rupjyoti Kalita</name>	<programme> M.A. (MCJ)</programme>	</Broader >
+		<Broader >	<name> Kaustav Das</name>	<programme> M.A. (MCJ)</programme>	</Broader >
+		<Broader >	<name> Michel Pathok</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Manas Jyoti Bora</name>	<programme> M.A. (Linguistic)</programme>	</Broader >
+		<Broader >	<name> Santanu Kotoky</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Krishna Jaiswal</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Pramod Kumar Ram</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Abdul Gani</name>	<programme> M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Dinkur Borah</name>	<programme> M.A. (Linguistic)</programme>	</Broader >
+		<Broader >	<name> Parag Kumar Deka</name>	<programme> M.A. (Linguistic)</programme>	</Broader >
+		<Broader >	<name> Biplab Singha</name>	<programme> M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Tanmoy Debnath</name>	<programme> M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Roop Kumar Mech</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Nitish Kumar</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Kamal Singh</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Saique Hassan Shaham</name>	<programme> M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Debojit Chanda</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Saksham</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Partha Paul</name>	<programme> M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Rahul Das</name>	<programme> M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Dadi Manoj</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Hemanta Chutia</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Deepjyoti Patowary</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Jhariya Sumeet Shamshuddin</name>	<programme> M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Kanhaiya Lal Kishan</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Khem Singh</name>	<programme> M.Sc. (MBBT)</programme>	</Broader >
+		<Broader >	<name> Promit Kumar Bhoumik</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Kumar Samarjeet Mahanta</name>	<programme> Int. M.Sc. (PHYSICS)</programme>	</Broader >
+		<Broader >	<name> Pradeep Kumar Maurya</name>	<programme> MCA (CSE)</programme>	</Broader >
+		<Broader >	<name> Abhinay Srivastava</name>	<programme> MCA (CSE)</programme>	</Broader >
+		<Broader >	<name> Mrinanka Chanda</name>	<programme> MCA (CSE)</programme>	</Broader >
+		
+	</y2016>
+	
+	<y2017>
+		<Broader >	<name> Abhishek Das Gupta</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Arindam Deb Nath</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name>Nabajyoti Saikia</name>	<programme> M.A. (SOCIOLOGY)</programme>	</Broader >
+		<Broader >	<name> Dibyaendu Saha</name>	<programme> M.Sc. (PHYSICS)</programme>	</Broader >
+		<Broader >	<name> Biswarup Das</name>	<programme> M.Sc. (MATHS)</programme>	</Broader >
+		<Broader >	<name> Chintareddy Prashanth</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Chinmoy Handique</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name>  Jackson Hazowari</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Dipjyoti Arjya</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Mukesh Prodhan</name>	<programme> M.Sc. (PHYSICS)</programme>	</Broader >
+		<Broader >	<name> Arindam Das</name>	<programme> M.Sc. (PHYSICS)</programme>	</Broader >
+		<Broader >	<name> Biswajit Das</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Ankur Singha</name>	<programme> M.Sc. (PHYSICS)</programme>	</Broader >
+		<Broader >	<name> Divyanand</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Arindam Khaund </name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Brajesh Kumar Nirala</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Sahfaran Ahmed</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Mudrika Zabiullah Hindi </name>	<programme> B.Tech. (CSE) </programme>	</Broader >
+		<Broader >	<name> Himanshu Pratim Bhattacharya </name>	<programme> M.Sc. (CHEM)</programme>	</Broader >
+		<Broader >	<name> Manash Pratim Upadhyaya </name>	<programme> M.Sc. (CHEM)</programme>	</Broader >
+		<Broader >	<name> Montu Borah </name>	<programme> M.A. (ENG) </programme>	</Broader >
+		<Broader >	<name> Minhaz Alam Parveez</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Samujjal Ray </name>	<programme> M.A. (ENG)</programme>	</Broader >
+		<Broader >	<name> Manoj Kumar Das</name>	<programme> MBA</programme>	</Broader >
+		<Broader >	<name> Naba Bhargab Das</name>	<programme> Int. M.Sc.(CHE)</programme>	</Broader >
+		<Broader >	<name> Naveen Kumar Shakya</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Shubham Sharma</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Rakesh Das</name>	<programme> MBA</programme>	</Broader >
+		<Broader >	<name> Bhaskar Sharma</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Partha Pratim Das</name>	<programme> MBA</programme>	</Broader >
+		<Broader >	<name> Kamalesh Kumawat</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Abhinay Deep</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Chonglong Engit</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Mukul Anand</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Dhanmoni Kalita</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Vivek Kumar Verma</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Jnan Jyoti Deka</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Bhaskar Jyoti Bania</name>	<programme> MBA</programme>	</Broader >
+		<Broader >	<name> Pratik Raj</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Forward Iswary</name>	<programme> MBA</programme>	</Broader >
+		<Broader >	<name> Reuben Regon</name>	<programme> MBA</programme>	</Broader >
+		<Broader >	<name> Raj Saikia</name>	<programme> MBA</programme>	</Broader >
+		<Broader >	<name> Ankur Jyoti Deka</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Tahrajar Rahman</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Uday Sankar Morang</name>	<programme> M.A.(EDUCATION)</programme>	</Broader >
+		<Broader >	<name> Saurav Dey</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Anup Neog</name>	<programme> M.Sc. (EVS)</programme>	</Broader >
+		<Broader >	<name> Jibanta Borah</name>	<programme> CID </programme>	</Broader >
+		<Broader >	<name> Arup Jyoti Barik</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Pradipta Kumar Buragohain</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Bikash Kumar Upadhyaya</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Churamoni Dutta</name>	<programme> MCA</programme>	</Broader >
+		<Broader >	<name> Murari Kumar </name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Rahul Kumar</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Upen Bora</name>	<programme> M.Sc. (CHEM)</programme>	</Broader >
+		<Broader >	<name> Partha Pratim Bora</name>	<programme> M.A. (ENG)</programme>	</Broader >
+		<Broader >	<name> Akash Mandal </name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Raktim Hazarika</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Taufique Ur Zaman</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Jitul Nath</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Masihuzzaman Ansari</name>	<programme> M.Sc.(MBBT)</programme>	</Broader >
+		<Broader >	<name> Kunaljit Ojah</name>	<programme> B.Tech. (FET)</programme>	</Broader >
+		<Broader >	<name> Sumit Saurav</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Abhay Anand Tripathi</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Kamlesh Kumar</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Bhaskar Jyoti Devnath</name>	<programme> M.A. (SOCIOLOGY)</programme>	</Broader >
+		<Broader >	<name> Nabadeep Bhuyan </name>	<programme> Int. M.Sc. (PHY)</programme>	</Broader >
+		<Broader >	<name> Pratahdeep Gogoi</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Subal Sagar</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Tapash Kakati </name>	<programme> M.A. (ENG)</programme>	</Broader >
+		<Broader >	<name> Swaraj Neog Akhil Pradeep</name>	<programme> MBA</programme>	</Broader >
+		<Broader >	<name> Plabon Protim Das</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Debanga Bhusan Bora</name>	<programme> M.Sc. (CHEM)</programme>	</Broader >
+		<Broader >	<name> Dipjyoti Bora</name>	<programme> M.Sc. (CHEM)</programme>	</Broader >
+		<Broader >	<name> Jashjit Sarma Mazumdar</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Nabajeet Kalita</name>	<programme> B.Tech. (ME)</programme>	</Broader >
+		<Broader >	<name> Abhishek Kumar</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Deepjyoti Upadhyaya</name>	<programme> MBA</programme>	</Broader >
+		<Broader >	<name> Kaushik Chatterjee</name>	<programme> M.Sc.(EVS)</programme>	</Broader >
+		<Broader >	<name> Abhinandan Mili</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Bijoy Shankar Gogoi</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Raju Bhowal</name>	<programme> B.Sc. B.Ed.(CHEM)</programme>	</Broader >
+		<Broader >	<name> Biswajeet Mahato</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Akshay Mishra</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Rajnish Kumar</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Muneshwar Pandit</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Kumar Utkarsh</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Ghanshyam Kasat</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Ridip Das</name>	<programme> M.Sc. (Chemistry)</programme>	</Broader >
+		<Broader >	<name> Biswajit Das</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Sourav Jyoti Das</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		<Broader >	<name> Ramashish Singh</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Rishabh Kumar</name>	<programme> B.Tech. (CIVIL)</programme>	</Broader >
+		<Broader >	<name> Adarsh Kumar Verma</name>	<programme> B.Tech. (CSE)</programme>	</Broader >
+		<Broader >	<name> Nandan Kumar Sing</name>	<programme> B.Tech. (ECE)</programme>	</Broader >
+		
+		
+	</y2017>
+</Alumni>

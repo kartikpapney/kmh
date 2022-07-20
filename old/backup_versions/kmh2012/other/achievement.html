@@ -1,0 +1,270 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 3.0 License
+
+Name       : Unwritten
+Description: A two-column, fixed-width design with a bright color scheme.
+Version    : 1.0
+Released   : 20120710
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<title>KMH@TU</title>
+		<link href="http://fonts.googleapis.com/css?family=Kreon" rel="stylesheet" type="text/css" />
+		<link href="http://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet" type="text/css" />
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		
+		<script type="text/javascript">
+var timeout	= 500;
+var closetimer	= 0;
+var ddmenuitem	= 0;
+
+// open hidden layer
+function mopen(id)
+{	
+	// cancel close timer
+	mcancelclosetime();
+
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
+
+}
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+
+// go close timer
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+
+// cancel close timer
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+
+// close layer when click-out
+document.onclick = mclose; 
+
+</script>
+<script type="text/javascript">
+
+var message="Sorry, right-click has been disabled";
+///////////////////////////////////
+function clickIE() {if (document.all) {(message);return false;}}
+function clickNS(e) {if
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {(message);return false;}}}
+if (document.layers)
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+document.oncontextmenu=new Function("return false")
+// -->
+</script> 
+	</head>
+	<body>
+		<div id="wrapper">
+			<div id="header">
+				<div id="logo">
+					<img src="../images/km.jpg" width="1100px" height="85px"  alt="" />
+				</div>
+				
+				<div id="menu">
+					<ul id="sddm">
+        <li><a href="../index.html"
+        onmouseover="mopen('m1')" 
+        onmouseout="mclosetime()">Home</a> </li>
+		<li><a href="administration.html"
+		onmouseover="mopen('m2')" 
+        onmouseout="mclosetime()">Administration</a> </li>
+
+        <li><a href="" class="style20" 
+        onmouseover="mopen('m3')" 
+        onmouseout="mclosetime()">Boarders</a> 
+          <div id="m3" 
+            onmouseover="mcancelclosetime()" 
+            onmouseout="mclosetime()"> <a href="../pdf/border0.pdf">Ground Floor </a>
+			<a href="../pdf/border1.pdf">First Floor</a> 
+            <a href="../pdf/border2.pdf">Second Floor</a> </div>
+        </li>
+		<li><a href=""
+		onmouseover="mopen('m4')" 
+        onmouseout="mclosetime()">Alumni</a> 
+		<div id="m4" 
+            onmouseover="mcancelclosetime()" 
+            onmouseout="mclosetime()"> <a href="../pdf/alu11.pdf">2011 Batch</a> 
+            <a href="../pdf/alu12.pdf">2012 Batch</a> </div>
+		
+		</li>
+
+        <li><a href="gallery.html"
+		onmouseover="mopen('m5')" 
+        onmouseout="mclosetime()">Gallery</a> </li>
+        <li><a href="facilities.html"
+		onmouseover="mopen('m6')" 
+        onmouseout="mclosetime()">Facilities</a> </li>
+		<li><a href="event.html"
+		onmouseover="mopen('m7')" 
+        onmouseout="mclosetime()">Events</a> </li>
+        <li><a href="achievement.html"
+		onmouseover="mopen('m8')" 
+        onmouseout="mclosetime()">Achievements</a> </li>
+		<li><a href="contactus.html"
+		onmouseover="mopen('m9')" 
+        onmouseout="mclosetime()">Contact Us</a> </li>
+		
+      </ul>
+				</div>
+			</div>
+			<br class="clearfix" />
+			<br class="clearfix" />
+			<br class="clearfix" />
+			<div id="splash">
+				<img src="../images/11.jpg" width="1100" height="250" alt="" />
+			</div>
+			<div id="page">
+				<div id="content">
+				  <div class="post">
+				  <ul><h2 style="font-family:Andalus">Achievements</h2>
+				  <li></li><p>The boarders of the KMH are known as tactful and versatile performers in every respective field of competitions of extra curricular activities carried out in the university and also out of this university. Boarders of KMH brought pride and honour to the hostel in every field of excellence possible. </p>
+				  <img src="../images/11.jpg" width="685" height="300" alt="" />
+				  </ul>
+				  </div>
+					<br class="clearfix" />
+			  </div>
+			  <div id="content">
+				  <div class="post">
+				  <ul><h3>2012 annual week [inter hostel competitions] achievements</h3>
+				  <li></li>
+				  <img src="../images/A4.jpg" width="685" height="300" alt="" />
+				  <p align="center"></br>1st prize in March past</br>
+1st prize in tug of war</br>
+2nd prize in bihu</br>
+2nd prize in chorus</br>
+2nd prize in drama
+ </p>
+				  
+				  </ul>
+				  </div>
+					<br class="clearfix" />
+			  </div>
+			  <div id="content">
+				  <div class="post">
+				  <ul><h3 style="font-family:Andalus">2011 annual week [inter hostel competitions] achievements</h3>
+				  <li></li>
+				  <img src="../images/b.jpg" width="685" height="300" alt="" />
+				  <p align="center"></br>1st prize in tug of war</br>
+1st prize in kabbadi</br>
+2nd prize in bihu
+
+ </p>
+				  
+				  </ul>
+				  </div>
+					<br class="clearfix" />
+			  </div>
+			  <div id="content">
+				  <div class="post">
+				  <ul><h3>2010 annual week [inter hostel competitions] achievements</h3>
+				  <li></li>
+				  <img src="../images/bb.jpg" width="685" height="350" alt="" />
+				  <p align="center"></br>2nd prize in tug of war</br>
+
+2nd prize in bihu
+
+ </p>
+				  
+				  </ul>
+				  </div>
+					<br class="clearfix" />
+			  </div>
+			   <div id="content">
+				  <div class="post">
+				  <ul><h3>Other prestigious achievements of the hostel </h3>
+				  <li></li>
+				  </ul>
+				 
+				  <li>Nehru Pegu – champion of champion ,2010</li>
+				 
+
+	<li>Debabrat Borgohain – Strong man ,2010</li>
+	<li>Gyandeep Borhgohain –Best lifter , 2010</li>
+<li>Sudipta Gayan – Best lifter , 2011</li>
+
+
+
+ </p>
+				  
+				
+				  </div>
+					<br class="clearfix" />
+			  </div>
+			  <div id="content">
+				  <div class="post">
+				  <ul><h3>Including all these achievements, the most prestigious award of Mr. freshers  is achieved by the  freshers of KMH consecutively for 4 years..  </h3>
+				  <li></li>
+				  </ul>
+				 
+				  <li>Tridiv Nayan Basistha, year 2009</li>
+				 
+
+	<li>Santanu Roumoriya , year 2010</li>
+	<li>Puneet Chowdhury, year 2011</li>
+<li>Eisa Ghaznabi , year 2012</li>
+
+
+
+ </p>
+				  
+				
+				  </div>
+					<br class="clearfix" />
+			  </div>
+				<div id="sidebar">
+				  <div class="post">
+						<h3>Quick Links </h3>
+						<ul class="list">
+							<li><a href="http://www.tezu.ernet.in">Tu Home</a></li>
+					<li><a href="../pdf/KANCHANJUNGA__MENS_HOSTEL.pdf">Hostel Leave Form</a></li>
+					<li><a href="../pdf/GUEST.doc">Guest Form</a></li>
+					<li><a href="http://www.tezu.ernet.in/download/Hostel_Rules_2005.doc">Hostel Rule</a></li>
+					<li><a href="../pdf/mess1.pdf">Mess Rules</a></li>
+					<li><a href="../pdf/KMH_Boarder_certificate.pdf">Boarder Certificate</a></li>
+					<li><a href="http://www.tezu.ernet.in/bus_time/bus_schedule_Nov_9_2012.pdf">Bus Timing</a></li>
+					<li><a href="../pdf/rlwy_cnsn_form.doc">Railway Concession</a></li>
+						</ul>
+				  </div>
+					<div class="post">
+						<h3>Follow Us On</h3>
+						<p><a href="http://www.facebook.com/pages/Kanchenjungha-Mens-Hoste/190212494334394"> <img src="../images/1.jpg" height="50" width="50"> </a></br>
+							<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/pages/Kanchenjungha-Mens-Hoste/190212494334394"
+        scrolling="no" frameborder="0"
+        style="border:none; width:450px; height:80px"></iframe>
+						</p>
+					</div>
+				</div>
+				<br class="clearfix" />
+			</div>
+		</div>
+		<div id="footer">
+			<p>Copyright &copy; 2012 TU. All rights reserved. </p>
+		</div>
+	</body>
+</html>

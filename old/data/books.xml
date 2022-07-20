@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Library>
+	<english>
+		<book><name>2 States</name><author>	Chetan Bhagat</author></book>
+		<book><name>A Brief History Of Time</name><author>	Stephen Hawking</author></book>
+		<book><name>Abraham Lincoln</name><author>	Lord Charnwood</author></book>
+		<book><name>An Autobiography</name><author>	Nehru</author></book>
+		<book><name>Angels Demon</name><author>	Dan Brown</author></book>
+		<book><name>Anglo Assamese Dictionary</name><author>	Dr. Hiren Gohain</author></book>
+		<book><name>Brief History Of Time An Anthology</name><author>	Stanley Appelbaum</author></book>
+		<book><name>Castes,Tribes And Guids</name><author>	Dr. Pranav Jyoti Deka</author></book>
+		<book><name>Che Guuevara</name><author>	Richard L. Harris</author></book>
+		<book><name>Father To His Daughter</name><author>	Jawaharlal Nehru</author></book>
+		<book><name>Five Point Someone</name><author>	Chetan Bhagat</author></book>
+		<book><name>G.K.2014</name><author>	Manohar Pandey</author></book>
+		<book><name>Geeta</name><author>	Swami Chinmyananda</author></book>
+		<book><name>Geetanjali</name><author>	Rabindranath Tagore</author></book>
+		<book><name>I Dare</name><author>	Kiran Bedi</author></book>
+		<book><name>Ignitod Minds</name><author>	A.P.J.Abdul Kalam</author></book>
+		<book><name>India 2020</name><author>	A.P.J. Abdul Kalam</author></book>
+		<book><name>India's Struggle For Independence</name><author>---</author></book>	
+		<book><name>Interpreter Of Maladies</name><author>	Jhumpa Lahiri</author></book>
+		<book><name>Life And Origin Of Universe</name><author>	T.D.Sing</author></book>
+		<book><name>Life And Spiritual Evolution</name><author>	T.D.Sing</author></book>
+		<book><name>Life Matter</name><author>	T.D.Sing</author></book>
+		<book><name>Light Of Bagavata</name><author>	A.C.B.S.P</author></book>
+		<book><name>Literature Quiz</name><author>	Sujata Ray</author></book>
+		<book><name>M.K.Gandhi</name><author>	Dr. Arun Gandhi</author></book>
+		<book><name>Macbeth</name><author>	A.R.Braunmuller</author></book>
+		<book><name>Magic Seeds</name><author>	V.S. Naipaul</author></book>
+		<book><name>Mahatma Gandhi</name><author>	Dr. S. Radhakrishnan</author></book>
+		<book><name>Malgudi Days</name><author>	R.K. Narayan</author></book>
+		<book><name>Manorama Year Book 2012</name><author>---</author></book>	
+		<book><name>Megaliving</name><author>	Robin Sharma</author></book>
+		<book><name>Meluha</name><author>	Amish</author></book>
+		<book><name>Mr. Sampath</name><author>	R.K. Narayan</author></book>
+		<book><name>My India</name><author>	Swami Vivekananda</author></book>
+		<book><name>Nagas</name><author>	Amish</author></book>
+		<book><name>Non Verbal Reasoning</name><author>	Dr. R.S.Agarwal</author></book>
+		<book><name>Objective General English</name><author>	Dr. R.S.Agarwal</author></book>
+		<book><name>Oxford Advanced Dictionary</name><author>---</author></book>	
+		<book><name>Oxford Hindi-English</name><author>	R.S. Megregor</author></book>
+		<book><name>Paulo Coclho</name><author>	The Pilgrimage</author></book>
+		<book><name>Paulo Coclho</name><author>	Clifford E. Landers</author></book>
+		<book><name>Premchanda Ki Swarbasrestha Kahaniya</name><author>---</author></book>
+		<book><name>Quantitative Aptitude Test</name><author>	Dr. N.K.Singh</author></book>
+		<book><name>Quiz</name><author>	Dilip M. Sahwi</author></book>
+		<book><name>Ramayana</name><author>	C. Rajagopalachon</author></book>
+		<book><name>Rebirth-A Novel</name><author>	Jahnavi Baruah</author></book>
+		<book><name>Revolution 2020</name><author>	Chetan Bhagat</author></book>
+		<book><name>Sachin Tendulkar</name><author>	Vaibhav Purandare</author></book>
+		<book><name>Savijnanam</name><author>---</author></book>	
+		<book><name>Seven Nobel Laureates On Science</name><author>	T.D.Sing</author></book>
+		<book><name>Sherlock Holmes</name><author>	Sir Arthur Conan Doyle </author></book>
+		<book><name>Sherlock Holmes Vol-1</name><author>	Sir Arthur Conan Doyle </author></book>
+		<book><name>Sherlock Holmes Vol-2</name><author>	Sir Arthur Conan Doyle</author></book>
+		<book><name>Swaraj</name><author>	Arvind Kejriwal</author></book>
+		<book><name>Tagore Tales</name><author>	Rabindranath Tagore</author></book>
+		<book><name>Tales From Shakespeare</name><author>	Charles And Mary</author></book>
+		<book><name>Target 3 Billion</name><author>	A.P.J. Abdul Kalam</author></book>
+		<book><name>Test Of Reasoning</name><author>	Jai Kishan Premkishan</author></book>
+		<book><name>The Adventures Of Tom</name><author>	Mark Twain</author></book>
+		<book><name>The Alchemist</name><author>	Panlo Coclho</author></book>
+		<book><name>The Argumentative Indian</name><author>	Amartya Sen</author></book>
+		<book><name>The Davinci Code</name><author>	Dan Brown</author></book>
+		<book><name>The Discovery Of India</name><author>	Jawaharlal Nehru</author></book>
+		<book><name>The Dragons Of Eden</name><author>	Carl Sagan</author></book>
+		<book><name>The Essential Einstein</name><author>	Stephen Hawking</author></book>
+		<book><name>The Hindu View Of Life</name><author>	S.Radhakrishnan</author></book>
+		<book><name>The History Of Assam</name><author>	Priyam Goswami</author></book>
+		<book><name>The Holy Bible</name><author>	King James Version</author></book>
+		<book><name>The Home And The World</name><author>	Rabindranath Tagore</author></book>
+		<book><name>The Inberitance Of Loss</name><author>	Kiran Desai</author></book>
+		<book><name>The Khokababu</name><author>	Rabindranath Tagore</author></book>
+		<book><name>The Man Eaters Of Malgudi</name><author>	R.K. Narayan</author></book>
+		<book><name>The Man Who Knew Infinity</name><author>	Robert Kanigel</author></book>
+		<book><name>The Oath Of The Vayuputras</name><author>	Amish</author></book>
+		<book><name>The Post Office</name><author>	Rabindranath Tagore</author></book>
+		<book><name>The Three Mistakes Of My Life</name><author>	Chetan Bhagat</author></book>
+		<book><name>The Ultimate Gift</name><author>	Jim Storah</author></book>
+		<book><name>The Valkyries</name><author>	Alan R.Clarke</author></book>
+		<book><name>The White Tiger</name><author>	Arvind Adiga</author></book>
+		<book><name>The Words Of Gandhi</name><author>	Richard Attenboe</author></book>
+		<book><name>Vedanta and Science</name><author>	T.D.Sing</author></book>
+		<book><name>What Is History</name><author>	R.W.Davies</author></book>
+		<book><name>Who Will Cry When You Die</name><author>	Robin Sharma</author></book>
+		<book><name>Wings Of Fire</name><author>	A.P.J. Abdul Kalam</author></book>
+		<book><name>World History</name><author>---</author></book>
+		<book><name>World Power Madehary</name><author>	Norman Lewis</author></book>
+		<book><name>World's Greatest Scientists</name><author>---</author></book>
+		<book><name>You Are Born To Blossom</name><author>	A.P.J. Abdul Kalam With Arun K. Tiwi</author></book>
+	</english>
+
+	<bengali>
+		<book><name>Albert Igantai</name><author>	Swami Tothagotananda</author></book>
+		<book><name>Bahrat Er Odhopoton</name><author>	C.N.Sheson</author></book>
+		<book><name>Chaprush</name><author>	Buddha Guho</author></book>
+		<book><name>Chobir Deshe Kobitar Deshe</name><author>	Sunil Ganguly</author></book>
+		<book><name>Dhanesh Pakhir Thot</name><author>	Tilottoma Mazumdar</author></book>
+		<book><name>Ek Ekta Din Onyorokom</name><author>	Neel Lohito</author></book>
+		<book><name>Forashi Premik</name><author>	Toshlima Nasrin</author></book>
+		<book><name>Hindu Dhormo</name><author>	Amarta Sen</author></book>
+		<book><name>Jao Pakhi</name><author>	Shirshendu Mukherjee</author></book>
+		<book><name>Jhumma Lahiri</name><author>	Poulomi Sengupta</author></book>
+		<book><name>Maitrao Jatak</name><author>	Baghi Bose</author></book>
+		<book><name>Manob Jeevan</name><author>	Shirshendu Mukherjee</author></book>
+		<book><name>Moner Manush</name><author>	Sunil Ganguly</author></book>
+		<book><name>Ordhek Jeevan</name><author>	Sunil Ganguly</author></book>
+		<book><name>Pachti Premer Kahini</name><author>	Sunil Ganguly</author></book>
+		<book><name>Porichiti And Hingsha</name><author>	Amarta Sen</author></book>
+		<book><name>Ranu And Bhanu</name><author>	Sunil Ganguly</author></book>
+		<book><name>Shreekanto</name><author>	Shree Sharatchandra Chatterjee</author></book>
+		<book><name>Unnoyon O Shokkhomota</name><author>	Amarta Sen</author></book>
+		<book><name>Vivekananda Choritro</name><author>	Shree Satyendranath Majumdar</author></book>
+	</bengali>
+
+	<assamese>
+		<book><name>1962</name><author>	Mrinal Talukdar</author></book>
+		<book><name>Aajir Manuh</name><author>	Hitesh Deka</author></book>
+		<book><name>Aapon Manuh</name><author>	Dilip Borah</author></book>
+		<book><name>Abha Gardenor Abeli</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Abilasha Jatra</name><author>	Juri Bora Borguhani</author></book>
+		<book><name>Adhalekha Dostabej</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Adhunik Akhomiya Avidan</name><author>---</author></book>
+		<book><name>Aditir Dekh</name><author>	Purobi Baruah</author></book>
+		<book><name>Ahihoron</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Akhirbador Rong</name><author>	Arun Sarmah</author></book>
+		<book><name>Akhomor Bohiragou Homoisa</name><author>	Ronjit Mahapandit</author></book>
+		<book><name>Akhomor Cha Udhyogor Akhotith Kahini</name><author>	Humen Borgohain</author></book>
+		<book><name>Alek Sakir Puhor</name><author>	Dr. Prafulla Kotoki</author></book>
+		<book><name>American Soraikhanat Hongbad Bosonto Aru Bondhu</name><author>	Anuradha</author></book>
+		<book><name>Amusha</name><author>	Leena Sarmah</author></book>
+		<book><name>Ananda Aru Bedonar </name><author>	Humen Borgohain</author></book>
+		<book><name>Antarip</name><author>	Bhabendro Nath Saikia</author></book>
+		<book><name>Antohin Sernar Utsav Lui</name><author>	Humen Borgohain</author></book>
+		<book><name>Antorip</name><author>	Babendro Nath Saikia</author></book>
+		<book><name>Anuradhor Dekh</name><author>	Josindro Kumar Deb Choudhory</author></book>
+		<book><name>Aporajita</name><author>	Nirupama Mahanto</author></book>
+		<book><name>Apsora Ghro</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Arjun</name><author>	Subhrova Gswami</author></book>
+		<book><name>Aronyo Jeevonor Romanchak Kahani</name><author>	Kirtinath Mohonto</author></book>
+		<book><name>Arun Goswamir Nirbashito Golpo</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Arun Goswamir Nirbashito Uponyakh</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Arunav Sir</name><author>	Ajonta</author></book>
+		<book><name>Arunodhoi</name><author>	Santosh Kumar Karmakar</author></book>
+		<book><name>Asol Manuh</name><author>	Hitesh Deka</author></book>
+		<book><name>Asthir Pranotor</name><author>	Humen Borgohain</author></book>
+		<book><name>Astoraag</name><author>	Humen Borgohain</author></book>
+		<book><name>Astoraag</name><author>	Humen Borgohain</author></book>
+		<book><name>Atma Dipou Vawa</name><author>	Humen Borgohain</author></book>
+		<book><name>Baate Ghate Nirvite</name><author>	Gautam Prasad Baruah</author></book>
+		<book><name>Bah Pulor Gundho</name><author>	Yesse Dorje Chongse</author></book>
+		<book><name>Baonar Anubhav</name><author>	Purnokanto Borah</author></book>
+		<book><name>Bhara –Ghor</name><author>	Hitesh Deka</author></book>
+		<book><name>Bibino Norok</name><author>	Muresh Sarmah</author></book>
+		<book><name>Bila</name><author>	Gautam Prasad Baruah</author></book>
+		<book><name>Biplobor Khuj</name><author>	Konokmen Deka</author></book>
+		<book><name>Bohag Mahtu Eti Mithu Nhoi</name><author>	Dr. Bhupen Hazarika</author></book>
+		<book><name>Bondit Bhupen Da Nindhit Bhupen Da</name><author>	Loknath Goswami</author></book>
+		<book><name>Boshyor Voktibad</name><author>	Shree Kusum Chandra Sarmah</author></book>
+		<book><name>Bouri Manuh</name><author>	Hitesh Deka</author></book>
+		<book><name>Changlot Fenla</name><author>	Porag Kumar Das</author></book>
+		<book><name>Chintar Khurak</name><author>	Humen Borgohain</author></book>
+		<book><name>Chitroxala</name><author>	Humen Borgohain</author></book>
+		<book><name>Coffee Mug</name><author>	Mahoni Mohonto</author></book>
+		<book><name>Dakhorothir Khuj</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Darwin</name><author>	Humen Borgohain</author></book>
+		<book><name>Dashavtar</name><author>	Sangita Bharali</author></book>
+		<book><name>Dehatito </name><author>	Kabita Dutta Goswami</author></book>
+		<book><name>Deu Lang Khui</name><author>	Rita Choudhory</author></book>
+		<book><name>Deubariya Adda</name><author>	Mobhyohasi Hazarika</author></book>
+		<book><name>Devpaharor Bhognostupti</name><author>	Arupa Kalita</author></book>
+		<book><name>Dostabejor Notun Prista</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Dotal Hathir Huwe Khuwa Hauda</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Dotyolai Orangyo</name><author>	Kovita Dutta Goswami</author></book>
+		<book><name>Eh Hejar Borokhor Egoraki Akhomiya</name><author>	Hemonto Bhorali</author></book>
+		<book><name>Eh Homoy Heh Homoy</name><author>	Rita Choudhory</author></book>
+		<book><name>Ehetu Jeevon(1)</name><author>	Hitesh Deka</author></book>
+		<book><name>Ehetu Jeevon(2)</name><author>	Hitesh Deka</author></book>
+		<book><name>Ehetu Jeevon(3)</name><author>	Hitesh Deka</author></book>
+		<book><name>Ehyaruingham</name><author>	Birendro Kumar Bhattacharya</author></book>
+		<book><name>Ejon Ahomajik Kobir Biography</name><author>	Anuradha Sharmah</author></book>
+		<book><name>Felani</name><author>	Arupa Kalita</author></book>
+		<book><name>Fengsui Apunar Babee</name><author>	Hudhikhona Bhuyan</author></book>
+		<book><name>Gandhari</name><author>	Dr. Jayshress Goswami Mohonto</author></book>
+		<book><name>Gawor Manuh</name><author>	Hitesh Deka</author></book>
+		<book><name>Golpo Somogro</name><author>	Podmo Borkakoty</author></book>
+		<book><name>Golpop Homogro</name><author>	Rong Bong Terang</author></book>
+		<book><name>Gonga Silnir Pakhi</name><author>	Dr. Lakshminandan Borah</author></book>
+		<book><name>Gorokhiya Dekh</name><author>	Fonindro Kumar Deb Choudhury</author></book>
+		<book><name>Griho Judho</name><author>	Konakman Deka</author></book>
+		<book><name>Grihojudho</name><author>	Konoksen Deka</author></book>
+		<book><name>Hari Gun Kohon Nejai</name><author>	Dr. Ratnauma Das Sikom</author></book>
+		<book><name>Haudor Putek E Nau Meli Jai</name><author>	Humen Borgohain</author></book>
+		<book><name>Haudor Puteke Nanto Meli Jai</name><author>	Humen Borgohain</author></book>
+		<book><name>Hendur</name><author>	Dr. Bhabendranath Saikia</author></book>
+		<book><name>Hengul Akhah Kolasahke Ajon Arohi</name><author>	Dr. Hiren Gohain</author></book>
+		<book><name>Hikha Prohongho</name><author>	Vivekanando</author></book>
+		<book><name>Himanto</name><author>	Hironyo Kashyap</author></book>
+		<book><name>Hiparor Ghor Hiparor Ghor</name><author>	Nirupama Borgoswami</author></book>
+		<book><name>Hobdo Hotyo</name><author>	Monikontala Bhattacharya</author></book>
+		<book><name>Homoy</name><author>	Hironyo Kashyap</author></book>
+		<book><name>Homoyor Prista</name><author>	Anuradha Sarmah Pujari</author></book>
+		<book><name>Honskar,Udoybhanur Choritro Ityadi</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Hopunor Dikshoivonot</name><author>	Dr. Hiren Gohain</author></book>
+		<book><name>Hridoi Ek Nodir Naam</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Hridoyor Moshochitro</name><author>	Humen Borgohain</author></book>
+		<book><name>Hridoyor Tapashni</name><author>	Reena Gohain</author></book>
+		<book><name>Hubala</name><author>	Humen Borgohain</author></book>
+		<book><name>Hubornorekha</name><author>	Santosh Kumar Karmakar</author></book>
+		<book><name>Hukh Aru Hafalyo</name><author>	Hemanta Kumar Bharali</author></book>
+		<book><name>Hukhula Hathir Khuj</name><author>	Prabhat Goswami</author></book>
+		<book><name>Hunali Efale Koniparile</name><author>	Arupa Kalita</author></book>
+		<book><name>Hurjyo Utha Dekh</name><author>	Leena Sarmah</author></book>
+		<book><name>Ishwori Jokhomi Jatri Aru </name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Jakeri Nahike Upam</name><author>	Lakshminondon Bora</author></book>
+		<book><name>Jeevon Jigyasa</name><author>	Humen Borgohain Aru Giti Nalika</author></book>
+		<book><name>Jeevonor-Upohar</name><author>	Humen Borgohain</author></book>
+		<book><name>Jeuti Kokaideu</name><author>	Dr. Bhupen Hazarika</author></book>
+		<book><name>Jibonor Madhurtam Hamay</name><author>	Humen Borgohain</author></book>
+		<book><name>Jigyasa</name><author>	Humen Borgohain</author></book>
+		<book><name>Jivon Jivon Bor Anupom</name><author>	Dr.Nirmalprabha Bordoloi</author></book>
+		<book><name>Jiyo Jurir Ghat</name><author>	Sayad Abdul Malik</author></book>
+		<book><name>Joymotir Edin Aru Anonyo</name><author>	Dilip Bora</author></book>
+		<book><name>Kaal Dingarare Paal</name><author>	Lakshminondon Bora</author></book>
+		<book><name>Kaam Kolpo</name><author>	Lakshminondon Bora</author></book>
+		<book><name>Kaam Korar Anondo</name><author>	Humen Borgohain</author></book>
+		<book><name>Kasor Pyramid</name><author>	Monikontala Bhattacharya</author></book>
+		<book><name>Kathonibari Ghat</name><author>	Sohim Borah</author></book>
+		<book><name>Kaviganga</name><author>	Monikontala Bhattacharya</author></book>
+		<book><name>Kharlath Fargo</name><author>	Neelim Kumar</author></book>
+		<book><name>Khudrotom Konar Sondhanot</name><author>	Dr. Shivnath Barman</author></book>
+		<book><name>Kijup</name><author>	Chandrana Goswami</author></book>
+		<book><name>Kirton-Ghusa Aru Naam-Ghusa</name><author>	Sri Sri Sankardev Aru Madhavdev</author></book>
+		<book><name>Kishuman Mukoli Dushchinta</name><author>	Bhodro Borah</author></book>
+		<book><name>Kitap ,Manuh Aru Prakritir Hombhondo</name><author>	Humen Borgohain</author></book>
+		<book><name>Kolikotar Baishyo Delhir Borkhun</name><author>	Pranov Kumar Borman</author></book>
+		<book><name>Kormo Rohoishyo</name><author>---</author></book>	
+		<book><name>Kotha Barta</name><author>	Humen Borgohain</author></book>
+		<book><name>Kotha-Mahabharat</name><author>	Prodeep Saikia</author></book>
+		<book><name>Kotha-Ramayan</name><author>	Prodeep Saikia</author></book>
+		<book><name>Kovita</name><author>	Dr. Bhupen Hazarika</author></book>
+		<book><name>Kuruswar Hopun Mur Hopun</name><author>	Arupa Kalita</author></book>
+		<book><name>Kushilav Timirtirtho</name><author>	Humen Borgohain</author></book>
+		<book><name>Maha Kovi</name><author>	Dr. Proyoshree Goswami Mohonto</author></book>
+		<book><name>Mahabharat Bishak Aru Bishmoi</name><author>	Chandraprasad Saikia</author></book>
+		<book><name>Mahabharat-Bishak Aru Bishmoi</name><author>	Chandra Prasad Saikia</author></book>
+		<book><name>Maharathi</name><author>	Chandraprasad Saikia</author></book>
+		<book><name>Maharikhi</name><author>	Chandraprasad Saikia</author></book>
+		<book><name>Makam</name><author>	Rita Choudhory</author></book>
+		<book><name>Mamore Dhora Talwar</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Marangburu Amar Pita</name><author>	Imran Hussain</author></book>
+		<book><name>Mayabrigu</name><author>	Rita Choudhory</author></book>
+		<book><name>Mereng</name><author>	Anuradha Sarmah Pujari</author></book>
+		<book><name>Modhunita Mohan</name><author>	Pankaj Govind Medhi</author></book>
+		<book><name>Mohiyokhi Komola</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Mohoshya Gondha</name><author>	Humen Borgohain</author></book>
+		<book><name>Moi Ati Zazabor</name><author>	Dr. Bhupen Hazarika</author></book>
+		<book><name>Moi Desdimona Hbo Khuju</name><author>	Monikontala Bhattacharya</author></book>
+		<book><name>Moi Jetiya Klanto Hou</name><author>	Santosh Kumar Karmakar</author></book>
+		<book><name>Mon Huth Mukhor Hridoi</name><author>	Yesse Dorje Chongse</author></book>
+		<book><name>Monikuntalor Anubhav</name><author>	Monikontala Bhattacharya</author></book>
+		<book><name>Monutt Sukhor Hridoi</name><author>	Yesse Dorje Chongse</author></book>
+		<book><name>Moriyahula</name><author>	Jomondo Madhav Bora</author></book>
+		<book><name>Moriyam Austin Athoba Heera Baruah</name><author>	Arupa Kalita</author></book>
+		<book><name>Moromor Deuta</name><author>	Dr. Debendronath Saikia</author></book>
+		<book><name>Mrigtrishna</name><author>	Dr. Jayanto Kumar Goswami</author></book>
+		<book><name>Mritatmar Amritor Gomoi</name><author>	Ruplekha Devi</author></book>
+		<book><name>Mrit-Bihag</name><author>	Kanchan Boruah</author></book>
+		<book><name>Mritunjoyi</name><author>	Dr. Hem Borah</author></book>
+		<book><name>Mrityugyomoi</name><author>	Dr. Rabindro Kumar Bhattacharya</author></book>
+		<book><name>Mun Horinor Sengkur</name><author>	Anuraag Sarmah Pujari</author></book>
+		<book><name>Mur Hoikhob Mur Koikhur</name><author>	Dr. Debendronath Saikia</author></book>
+		<book><name>Mur Jivon Huvoron</name><author>	Lakshminath Bezbaruah</author></book>
+		<book><name>Mur Jivonor Ramdhenu</name><author>	Humen Borgohain</author></book>
+		<book><name>Mur Priyo Manuh Socrate</name><author>	Humen Borgohain</author></book>
+		<book><name>Nang-Fa</name><author>	Juri Bora Borguhani</author></book>
+		<book><name>Natyosombhar</name><author>	Bhabendro Nath Saikia</author></book>
+		<book><name>Neelkonti Broj</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Nihongta</name><author>	Humen Borgohain</author></book>
+		<book><name>Nikhido Prantor</name><author>	Dr. Dinesh Baishya</author></book>
+		<book><name>Nilacholor Patot Eta Dugor Sobi</name><author>	Humen Borgohain</author></book>
+		<book><name>Nirvabhasit Uponyakhika</name><author>	Purobi Bormudoy</author></book>
+		<book><name>No Manos Land</name><author>	Anuraag Sarmah Pujari</author></book>
+		<book><name>Noi Boi Jai</name><author>	Dr. Leela Gogoi</author></book>
+		<book><name>Okole Asu Khushole Asu</name><author>	Mridul Haloy</author></book>
+		<book><name>Ou Aan Ebashi</name><author>	Dhonda Devi</author></book>
+		<book><name>Pahar,Nodi,Hagor Aru Manuh</name><author>	Arupa Kalita</author></book>
+		<book><name>Pahoror Hadhona</name><author>	Humen Borgohain</author></book>
+		<book><name>Papor Prithvi</name><author>	Monalisa Saikia</author></book>
+		<book><name>Parekh Boruahar Sondhanot</name><author>	Rajeev Bhattacharya</author></book>
+		<book><name>Patal Bhoirobi</name><author>	Dr. Lakshminandan Borah</author></book>
+		<book><name>Patkair Efare Mur Dekh</name><author>	Chandana Goswami</author></book>
+		<book><name>Pita –Putro</name><author>	Humen Borgohain</author></book>
+		<book><name>Popiya Torat Hadhu</name><author>	Rita Choudhory</author></book>
+		<book><name>Porom</name><author>	Purobi Bormudoy</author></book>
+		<book><name>Poth Prodorshok Atma</name><author>	Bhabendro Nath Saikia</author></book>
+		<book><name>Pratipad</name><author>	Birendro Kumar Bhattacharya</author></book>
+		<book><name>Prem Aru Protista</name><author>	Hemanta Kumar Bharali</author></book>
+		<book><name>Prith Golpo</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Priyo Bondhu</name><author>	Dr. Jaishree Goswami Mahanto</author></book>
+		<book><name>Prohori</name><author>	Bhabendro Nath Saikia</author></book>
+		<book><name>Prokar Sadhna</name><author>	Humen Borgohain</author></book>
+		<book><name>Protiva Kotha Kalpo</name><author>	Kabita Dutta Goswami</author></book>
+		<book><name>Puwai Duwar Khuli Dekha Prithivikhon</name><author>	Debokanto Mandiroi</author></book>
+		<book><name>Rag Birada</name><author>	Dilip Borah</author></book>
+		<book><name>Raghupati</name><author>	Dr. Jogeshwar Bhuyan</author></book>
+		<book><name>Rohoshya Uponyak</name><author>	Dr. Pranabjyoti Deka</author></book>
+		<book><name>Ruparotir Polokh</name><author>	Soyod Abdul Malik</author></book>
+		<book><name>Sahebpuror Borukhun</name><author>	Arunradha Sarmah Pujari</author></book>
+		<book><name>Sangeet</name><author>	Hironyo Kashyap</author></book>
+		<book><name>Senabor Hut</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Shantanu Kulnandan</name><author>	Purobi Bormudoy</author></book>
+		<book><name>Show Kota Manuh</name><author>	Yesse Dorje Chongse</author></book>
+		<book><name>Shree Krishno Geeta</name><author>---</author></book>	
+		<book><name>Shringkhol</name><author>	Debendranath Saikia</author></book>
+		<book><name>Sinhomoptar Manuhtu</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Snehor Bondhon</name><author>	Prashanta Kumar Goswami</author></book>
+		<book><name>Somoy</name><author>	Hironyo Kashyap</author></book>
+		<book><name>Sondhya</name><author>	Monikontala Bhattacharya</author></book>
+		<book><name>Sondhya Bhromon</name><author>	Kamal Kumar Tanti</author></book>
+		<book><name>Sri Sri Sankardev Aru Madhavdev</name><author>	Lakshminath Bezbaruah</author></book>
+		<book><name>Stenganor Huenbaone</name><author>	Konokmen Deka</author></book>
+		<book><name>Sugondhi Pokhila</name><author>	Hiren Bhattacharya</author></book>
+		<book><name>Swanirbhachit Rachna</name><author>	Humen Borgohain</author></book>
+		<book><name>Swapno Lazzahin</name><author>	Huprova Goswami</author></book>
+		<book><name>Swasto Rokhyar Hohoj Niyom</name><author>	Humen Borgohain</author></book>
+		<book><name>Tamul Barir Rengoni</name><author>	Matyashree Das</author></book>
+		<book><name>Tawangot Sukhyo Din</name><author>	Luhit Deka</author></book>
+		<book><name>Tekherotha Notun Golpo</name><author>	Robin Bhuyan</author></book>
+		<book><name>Tez Aru Dhulire Dhushit Prista</name><author>	Mamoni Roshyom Goswami</author></book>
+		<book><name>Tez Aru Mondor</name><author>	Dr. Sourav Kumar Bhuyan</author></book>
+		<book><name>Thakur Barir Konya</name><author>	Montush Kumar Karmakar</author></book>
+		<book><name>Tumi Val Nupuwa Buli Janiu Premot Pori Jau</name><author>	Girish Rabha</author></book>
+		<book><name>Tyaag</name><author>	Hitesh Deka</author></book>
+		<book><name>Umor Khamam</name><author>	Prodeep Saikia</author></book>
+		<book><name>Uponoshyam Somogra</name><author>	Hill Bhodro</author></book>
+		<book><name>Uponoshyam Somogra</name><author>	Dr. Bhabendranath Saikia</author></book>
+		<book><name>Uroni Tolor Manuh</name><author>	Dilip Borah</author></book>
+		<book><name>Ussakangkhya</name><author>	Humen Borgohain</author></book>
+		<book><name>Usshakangkhya</name><author>	Humen Borgohain</author></book>
+		<book><name>Vishonnota</name><author>	Humen Borgohain</author></book>
+		<book><name>Vivianor Lily</name><author>	Monikontala Bhattacharya</author></book>
+		<book><name>Winetel Wet Resort</name><author>	Dilip Bora</author></book>
+		<book><name>Zomol</name><author> Humen Borgohain and Dr. Ruby Kakoty</author></book>
+	</assamese>
+</Library>

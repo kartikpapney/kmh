@@ -1,0 +1,310 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 3.0 License
+
+Name       : Unwritten
+Description: A two-column, fixed-width design with a bright color scheme.
+Version    : 1.0
+Released   : 20120710
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<title>KMH@TU</title>
+		<link href="http://fonts.googleapis.com/css?family=Kreon" rel="stylesheet" type="text/css" />
+		<link href="http://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet" type="text/css" />
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		
+		<script type="text/javascript">
+var timeout	= 500;
+var closetimer	= 0;
+var ddmenuitem	= 0;
+
+// open hidden layer
+function mopen(id)
+{	
+	// cancel close timer
+	mcancelclosetime();
+
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
+
+}
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+
+// go close timer
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+
+// cancel close timer
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+
+// close layer when click-out
+document.onclick = mclose; 
+
+</script>
+<script type="text/javascript">
+
+var message="Sorry, right-click has been disabled";
+///////////////////////////////////
+function clickIE() {if (document.all) {(message);return false;}}
+function clickNS(e) {if
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {(message);return false;}}}
+if (document.layers)
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+document.oncontextmenu=new Function("return false")
+// -->
+</script> 
+	</head>
+	<body>
+				<div id="wrapper">
+			<div id="header">
+				<div id="logo">
+					<img src="../images/km.jpg" width="1100px" height="85px"  alt="" />
+				</div>
+				
+				<div id="menu">
+					<ul id="sddm">
+        <li><a href="../index.html"
+        onmouseover="mopen('m1')" 
+        onmouseout="mclosetime()">Home</a> </li>
+		<li><a href="administration.html"
+		onmouseover="mopen('m2')" 
+        onmouseout="mclosetime()">Administration</a> </li>
+
+        <li><a href="" class="style20" 
+        onmouseover="mopen('m3')" 
+        onmouseout="mclosetime()">Boarders</a> 
+          <div id="m3" 
+            onmouseover="mcancelclosetime()" 
+            onmouseout="mclosetime()"> <a href="../pdf/border0.pdf">Ground Floor </a>
+			<a href="../pdf/border1.pdf">First Floor</a> 
+            <a href="../pdf/border2.pdf">Second Floor</a> </div>
+        </li>
+		<li><a href=""
+		onmouseover="mopen('m4')" 
+        onmouseout="mclosetime()">Alumni</a> 
+		<div id="m4" 
+            onmouseover="mcancelclosetime()" 
+            onmouseout="mclosetime()"> <a href="../pdf/alu11.pdf">2011 Batch</a> 
+            <a href="../pdf/alu12.pdf">2012 Batch</a> </div>
+		
+		</li>
+
+        <li><a href="gallery.html"
+		onmouseover="mopen('m5')" 
+        onmouseout="mclosetime()">Gallery</a> </li>
+        <li><a href="facilities.html"
+		onmouseover="mopen('m6')" 
+        onmouseout="mclosetime()">Facilities</a> </li>
+		<li><a href="event.html"
+		onmouseover="mopen('m7')" 
+        onmouseout="mclosetime()">Events</a> </li>
+        <li><a href="achievement.html"
+		onmouseover="mopen('m8')" 
+        onmouseout="mclosetime()">Achievements</a> </li>
+		<li><a href="contactus.html"
+		onmouseover="mopen('m9')" 
+        onmouseout="mclosetime()">Contact Us</a> </li>
+		
+      </ul>
+				</div>
+			</div>
+			<br class="clearfix" />
+			<br class="clearfix" />
+			<br class="clearfix" />
+			<div id="splash">
+				<img src="../images/cnt.jpg" width="1100" height="250" alt="" />
+			</div>
+			<div id="page">
+				<div id="content">
+					<div class="post">
+					<ul>
+						<h2 style="font-family:Andalus">MESS FACILITY</h2>
+						<li>
+						<p >	KMH has one of the best group of mess menials among the hostels at Tezpur University. New dishes are tried out on a regular basis so that the best food is available for the students. Mess managers are changed every month and this provides a chance to new members to implement their innovative ideas. Special dinner is provided on the last Sunday of every month.</br>Statement of Expenditure of Mess   <a href="../pdf/mess.pdf">Click here</a>. </p></li>
+							</ul>
+				
+					</div>
+					<br class="clearfix" />
+					
+				</div>
+								<div id="content">
+					<div class="post">
+					<ul>
+						<h2 style="font-family:Andalus">LIBRARY</h2>
+						<li><p>The hostel has a small library covering a small range of books. Hostel boarders can issue these books when they require them. The range of books varies from the religious books of various religion, poetry, novels and books for competitive examination. </p></li>
+						
+							</ul>
+				
+					</div>
+					<br class="clearfix" />
+					
+				</div>
+				<div id="content">
+					<div class="post">
+					<ul>
+						<h2 style="font-family:Andalus">WI FI</h2>
+						<li><p>The hostel is WI-Fi enabled so that students enabling boarders to access to the internet even within their own rooms. The accessing speed is very good for downloading files.  </p></li>
+						
+							</ul>
+				
+					</div>
+					<br class="clearfix" />
+					
+				</div>
+				<div id="content">
+					<div class="post">
+					<ul>
+						<h2 style="font-family:Andalus">COMMON ROOM</h2>
+						<li><p>The Common Room is the most happening place in the hostel. Kanchenjungha Men’s Hostel comes alive every evening as boarders gather around the television to catch a glimpse of their favorite programs. There is a good music system along with carrom and table tennis boards in the Common Room. It has 300 chairs for the boarders of the hostel which is used during general body meetings and post-dinner talks which are organized on a regular basis.  </p></li>
+						
+							</ul>
+				
+					</div>
+					<br class="clearfix" />
+					
+				</div>
+				<div id="content">
+					<div class="post">
+					<ul>
+						<h2 style="font-family:Andalus">GUEST ROOM</h2>
+						<li><p>The hostel has guest room facilities which can be availed on  payment basis. The hostel has six double bed guest rooms and two single bed  rooms.&nbsp;Bathroom facilities are also provided  which are attached to respective rooms.</p></li>
+							</ul>
+				
+				  </div>
+					<br class="clearfix" />
+					
+				</div>
+				<div id="content">
+					<div class="post">
+					<ul>
+						<h2 style="font-family:Andalus">COMPUTER ROOM</h2>
+						<li><p>The hostel has a computer room which provides computing  facilities for all inmates for 24 hours. There are three computers along with  comfortable chairs ensures that the centre is hardly ever unoccupied. It caters  to the service of all those hostelites who cannot afford personal computers.</p></li>
+							</ul>
+				
+				  </div>
+					<br class="clearfix" />
+					
+				</div>
+				<div id="content">
+					<div class="post">
+					<ul>
+						<h2 style="font-family:Andalus">WASHING ROOM</h2>
+						<li><p>There is a special arrangement of a washing machine in the  hostel. Washing rates are economical and adds to one of the most needed  facilities of the hostel with the sole concern of the welfare of the boarders.</p></li>
+							</ul>
+				
+				  </div>
+					<br class="clearfix" />
+					
+				</div>
+				<div id="content">
+					<div class="post">
+					<ul>
+						<h2 style="font-family:Andalus">UTILITY SHOP</h2>
+						<li><p>There is a utility shop in the ground floor of the hostel  with all the facilities essential for the boarders of the hostel. The shop  provides 24 hours of service during the examination period to facilitate the  needs.</p></li>
+							</ul>
+				
+				  </div>
+					<br class="clearfix" />
+					
+				</div>
+				<div id="content">
+					<div class="post">
+					<ul>
+						<h2 style="font-family:Andalus">SPORTS</h2>
+						<li><p>There are sufficient sports  facilities and equipments in the hostel for the boarders of the hostel. Games  like badminton, volleyball, carom, chess, table tennis, etc can be played  without any disadvantages or limitations within the hostel premises. The hostel  provides suitable free space for the outdoor games and it also consists of a  suitable spacious room to carry out different indoor game activities and other  extra curricular activities.</p></li>
+							</ul>
+				
+				  </div>
+					<br class="clearfix" />
+					
+				</div>
+				<div id="content">
+					<div class="post">
+					<ul>
+						<h2 style="font-family:Andalus">MINI GARDEN</h2>
+						<li><p> In front of the  hostel there is a mini garden with varieties of seasonal and non seasonal  flowers. Regular care and watering and fertilizations are carried out in the  garden so that the beauty and cleanliness of the environment of the hostel is  maintained.</p></li>
+							</ul>
+				
+				  </div>
+					<br class="clearfix" />
+					
+				</div>
+				<div id="content">
+					<div class="post">
+					<ul>
+						<h2 style="font-family:Andalus">NEWSPAPER</h2>
+						<li><p>National and Regional Newpapers are provided on a regular basis. </p></li>
+						
+							</ul>
+				
+					</div>
+					<br class="clearfix" />
+					
+				</div>
+				<div id="content">
+					<div class="post">
+					<ul>
+						<h2 style="font-family:Andalus">PARKING FACILITY</h2>
+						<li><p>The hostel has parking facilities to provide parking space  for the vehicles of the respective boarders. There are two parking areas within  the hostel premise for spacious parking facilities.</p></li>
+							</ul>
+				
+				  </div>
+					<br class="clearfix" />
+					
+				</div>
+				
+				<div id="sidebar">
+				  <div class="post">
+						<h3>Quick Links </h3>
+						<ul class="list">
+							<li><a href="http://www.tezu.ernet.in">Tu Home</a></li>
+					<li><a href="../pdf/KANCHANJUNGA__MENS_HOSTEL.pdf">Hostel Leave Form</a></li>
+					<li><a href="../pdf/GUEST.doc">Guest Form</a></li>
+					<li><a href="http://www.tezu.ernet.in/download/Hostel_Rules_2005.doc">Hostel Rule</a></li>
+					<li><a href="../pdf/KMH_Boarder_certificate.pdf">Boarder Certificate</a></li>
+					<li><a href="http://www.tezu.ernet.in/bus_time/bus_schedule_Nov_9_2012.pdf">Bus Timing</a></li>
+					<li><a href="../pdf/rlwy_cnsn_form.doc">Railway Concession</a></li>
+						</ul>
+				  </div>
+					<div class="post">
+						<h3>Follow Us On</h3>
+						<p><a href="http://www.facebook.com/pages/Kanchenjungha-Mens-Hoste/190212494334394"> <img src="../images/1.jpg" height="50" width="50"> </a></br>
+							<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/pages/Kanchenjungha-Mens-Hoste/190212494334394"
+        scrolling="no" frameborder="0"
+        style="border:none; width:450px; height:80px"></iframe>
+						</p>
+					</div>
+				</div>
+				<br class="clearfix" />
+			</div>
+		</div>
+		<div id="footer">
+			<p>Copyright &copy; 2012 TU. All rights reserved. </p>
+		</div>
+	</body>
+</html>
