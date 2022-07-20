@@ -1,7 +1,7 @@
 document.write(
 `
     <blockquote class="blockquote text-center">
-        <h1 class="display-3">KANCHENJUNGHA MEN'S HOSTEL</h1>
+        <h1 class="display-5">KANCHENJUNGHA MEN'S HOSTEL</h1>
         <p class="mb-0">Tezpur University, Napaam, PO: Tezpur</p>
         <p class="mb-0">District: Sonitpur, Assam, IN</p>
         <p class="mb-0">Pincode: 784028</p>
