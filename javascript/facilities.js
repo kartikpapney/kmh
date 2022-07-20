@@ -23,8 +23,8 @@ readTextFile("./data/facilities.json", function(text){
                 <div class="facilityImage">
                     <img class="card-img-top" src="asset/facilities/${value.image}" alt="${value.title}" >
                 </div>
-                <div class="card-body d-flex justify-content-center align-items-center" style="background-color: #21201E; color: white; align-items: center;">
-                    <h4 class="card-title">${value.title}</h4>
+                <div class="card-header d-flex justify-content-center align-items-center" style="background-color: #21201E; color: white; align-items: center;">
+                        <h4 class="card-title">${value.title}</h4>
                 </div>
             </div>
         `
