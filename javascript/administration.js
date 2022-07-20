@@ -24,8 +24,8 @@ readTextFile("./data/administration.json", function(text){
                     <div class="card-header d-flex justify-content-center align-items-center" style="background-color: #21201E; color: white; align-items: center;">
                         <h4 class="card-title">${ob.name}</h4>
                     </div>
-                    <div class="card-body d-flex ml-auto">
-                        ${ob.designation}, ${ob.contact}
+                    <div class="card-body d-flex text-center">
+                        <p>${ob.designation}, ${ob.contact}</p>
                     </div>
                 </div>
             `
