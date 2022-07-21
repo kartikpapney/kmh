@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&family=Calistoga&display=swap');
+
+
 h4 {
   margin: 0 !important;
   padding: 0 !important;
@@ -42,4 +44,7 @@ body {
 }
 .card-header {
   font-family: cursive;
+}
+.nav-link {
+  color: white;
 }

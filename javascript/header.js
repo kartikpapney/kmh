@@ -45,8 +45,8 @@ document.write(
                 <a class="nav-link" href="contactus.html">Contact Us</a>
             </li>
             </ul>            
-            <ul class="navbar-nav ml-auto">
-                <a class="nav-link" href="https://github.com/kartikpapney" target="_blank">Developer</a>
+            <ul class="navbar-nav ms-auto">
+                <a class="nav-link" href="https://github.com/kartikpapney" target="_blank">Website Engineer</a>
             </ul>
         </div>
     </nav>
