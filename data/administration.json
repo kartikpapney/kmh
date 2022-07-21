@@ -60,27 +60,28 @@
         "contact": "Office, Kanchenjungha Men's Hostel"
     },
     {
-        "name": "Nazmul Ahmed",
-        "designation": "Security Staff",
-        "image": "10.jpeg",
-        "contact": "Security Desk, Kanchenjungha Men's Hostel"
-    },
-    {
         "name": "Chandan Rabidas",
         "designation": "Security Staff",
         "image": "11.jpeg",
         "contact": "Security Desk, Kanchenjungha Men's Hostel"
     },
     {
-        "name": "Raktim Borah",
-        "designation": "Cook",
-        "image": "12.jpeg",
+        "name": "Nazmul Ahmed",
+        "designation": "Security Staff",
+        "image": "10.jpeg",
         "contact": "Security Desk, Kanchenjungha Men's Hostel"
     },
     {
         "name": "Pramod Narzary",
         "designation": "Cook",
         "image": "13.jpeg",
-        "contact": "Security Desk, Kanchenjungha Men's Hostel"
-    }   
+        "contact": "Hostel Mess, Kanchenjungha Men's Hostel"
+    }, 
+    
+    {
+        "name": "Raktim Borah",
+        "designation": "Cook",
+        "image": "12.jpeg",
+        "contact": "Hostel Mess, Kanchenjungha Men's Hostel"
+    }
 ]
