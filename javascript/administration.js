@@ -24,7 +24,7 @@ function getAdministration(data, start, end) {
                         <h4 class="card-title">${ob.name}</h4>
                     </div>
                     <div class="card-body d-flex row text-center">
-                        <p>${ob.designation}</p>
+                        <p><mark style="background-color: #E6E6E6; border-radius: 5px;">${ob.designation}</mark></p>
                         <p>${ob.contact}</p>
                     </div>
                 </div>
