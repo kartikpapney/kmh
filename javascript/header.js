@@ -5,7 +5,6 @@ document.write(
         <div class="justify-content-center align-items-center">
         <div class="m-2 d-flex justify-content-around">
             <img src="./asset/kmh.png" alt="" width="50" height="50">
-            <img src="./asset/tu.png" alt="" width="50" height="50"> 
         </div>
 
             <h1 style="font-family: 'Calistoga', cursive; color: white;">Kanchenjungha Men's Hostel</h1>
@@ -46,7 +45,7 @@ document.write(
             </li>
             </ul>            
             <ul class="navbar-nav ms-auto">
-                <a class="nav-link" href="https://github.com/kartikpapney" target="_blank">Website Engineer</a>
+                <a class="nav-link" href="https://github.com/kartikpapney" target="_blank">Developer</a>
             </ul>
         </div>
     </nav>
