@@ -1,5 +1,5 @@
 
-const URL = "https://script.googleusercontent.com/a/macros/tezu.ac.in/echo?user_content_key=p156JXp8oGEbeuuTJpwDiYxMDoWiPkugLuu-6_d9lvqARglUkQxSYhCL1GD6rUmJJkxDJyf9uoks7IWG8aF3owpwizltLTDWm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_nRPgeZU6HP-Eb_JVZ_y0oSHaYKxUla6Ah3nouIf-Jx-ABkjhQ4g3L_apja273KrMd3ISup9wlcdnTzIkuxXqqNC237sATWWcsf6vi5F_2LaZCIExPHJbz_lF-r3pinlhpX6tX3KFDfw&lib=M6JAvx8nyu8NjjjP7Z_dBR9CxKo-cI34c";
+const URL = "https://script.google.com/macros/s/AKfycbx9K0Fe8MooqGNUp3Uqbg6wqKpKkJEhKljneGRHouU8XeZ3EfN9H2Ys_DYPO27PujuKmg/exec";
 
 function fn(cres) {
     var element = document.getElementById("spinnerDiv");

@@ -1,5 +1,7 @@
 # KANCHENJUNGHA MEN'S HOSTEL
 
-    Kanchenjungha Men’s Hostel also known as KMH is one of the fully furnished among the 5 Men’s and 10 Women’s hostels at Tezpur University. It was inaugurated on 31st August 2009 by Sri Paban Singh Ghatowar, Hon'ble Member of Parliament. Kanchenjunga Men’s Hostel is an RCC-3 storied building with excellent fully furnished infrastructure having a capacity to accommodate 428 boarders. It comes with the facility like Hostel Mess, Common Room( equipped with billiards, table tennis, carrom, chess, television etc.), Laundry, 24 x 7 Wifi.
+Kanchenjungha Men’s Hostel stands tall as one of the finest among the 13 hostels within the vibrant campus of Tezpur University. Inaugurated by the venerable Member of Parliament Sri Paban Singh Ghatowar on the 31st of August, 2009, it is one of the largest men’s hostels in the university, with the capacity to accommodate more than 400 boarders.
 
-    Kanchenjunga Men’s Hostel has scaled new heights of excellence in sports, academics, culture, music, drama and other diverse fields of activities with its highly disciplined, enthusiastic and talented inmates.
+Kanchenjungha’s infrastructure is undeniably par excellence, boasting an in-house library, a fully furnished common room which includes state-of-the-art leisure facilities for the students, and a well-equipped Computer Centre. As an RCC-3 storied hostel, it provides the boarders with all modern amenities, including 24*7 high-speed wi-fi.
+
+Kanchenjungha Men’s Hostel has consistently strived and achieved insurmountable heights in every field and will continue to do so in the near and distant future.   
