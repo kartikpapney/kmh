@@ -28,8 +28,14 @@ document.write(
             <li class="nav-item">
                 <a class="nav-link" href="gallery.html">Gallery</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="achievements.html">Achievements</a>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Achievements
+                </a>
+                <ul class="dropdown-menu" style="background-color: #E6E6E6;"> 
+                    <li><a class="dropdown-item" href="achievements.html">Annual Week</a></li>
+                    <li><a class="dropdown-item" href="studentsAchievements.html">Students Achievement</a></li>
+                </ul>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="facilities.html">Facilities</a>
@@ -45,7 +51,7 @@ document.write(
             </li>
             </ul>            
             <ul class="navbar-nav ms-auto">
-                <a class="nav-link" href="https://github.com/kartikpapney" target="_blank">Developer</a>
+                <a class="nav-link" href="https://kartikpapney.github.io/portfolio/" target="_blank">Developer</a>
             </ul>
         </div>
     </nav>
